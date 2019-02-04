@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="user_display_name">Display Name :</string>
+    <string name="user_birthday">Birthday :</string>
+    <string name="user_gender">Gender :</string>
+    <string name="user_ethnicity">Ethnicity :</string>
+    <string name="user_religion">Religion :</string>
+    <string name="user_height">Height :</string>
+    <string name="user_figure">Figure :</string>
+    <string name="user_about_me">About Me :</string>
+    <string name="user_location">Location :</string>
+    <string name="user_edit_profile">Edit Profile</string>
+    <string name="spiner_item_placeholder">Please select item</string>
+    <string name="button_text_edit">Edit</string>
+    <string name="button_text_save">Save</string>
+    <string name="button_text_retry">Retry</string>
+    <string name="empty"></string>
+
+
+    <string name="error_edit_profile">All fields must be filled</string>
+
+</resources>

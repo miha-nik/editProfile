@@ -1,0 +1,6 @@
+<resources>
+
+  <dimen name="display_name_len">256</dimen>
+  <dimen name="about_me_len">5000</dimen>
+
+</resources>
