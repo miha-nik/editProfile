@@ -38,4 +38,4 @@ If you want you can edit profile, after edit push button save, updateted info se
 
 **RxJava** - for reactive programming
 
-**Picasso** - for loading and showing current weather icon
+**Picasso** - for loading and showing current profile icon
