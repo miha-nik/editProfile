@@ -1,0 +1,4527 @@
+{
+  "cities" : [ {
+    "city" : "Aarhus",
+    "lat" : "56°09'N",
+    "lon" : "10°13'E"
+  }, {
+    "city" : "Aberdeen",
+    "lat" : "57°09'N",
+    "lon" : "2°07'W"
+  }, {
+    "city" : "Abidjan",
+    "lat" : "5°19'N",
+    "lon" : "4°02'W"
+  }, {
+    "city" : "Abu Dhabi",
+    "lat" : "24°28'N",
+    "lon" : "54°22'E"
+  }, {
+    "city" : "Abuja",
+    "lat" : "9°04'N",
+    "lon" : "7°29'E"
+  }, {
+    "city" : "Acapulco",
+    "lat" : "16°52'N",
+    "lon" : "99°53'W"
+  }, {
+    "city" : "Accra",
+    "lat" : "5°33'N",
+    "lon" : "0°12'W"
+  }, {
+    "city" : "Adak",
+    "lat" : "51°53'N",
+    "lon" : "176°39'W"
+  }, {
+    "city" : "Adamstown",
+    "lat" : "25°04'S",
+    "lon" : "130°06'W"
+  }, {
+    "city" : "Adana",
+    "lat" : "37°00'N",
+    "lon" : "35°19'E"
+  }, {
+    "city" : "Addis Ababa",
+    "lat" : "9°02'N",
+    "lon" : "38°44'E"
+  }, {
+    "city" : "Adelaide",
+    "lat" : "34°56'S",
+    "lon" : "138°36'E"
+  }, {
+    "city" : "Agadir",
+    "lat" : "30°26'N",
+    "lon" : "9°36'W"
+  }, {
+    "city" : "Agartala",
+    "lat" : "23°50'N",
+    "lon" : "91°16'E"
+  }, {
+    "city" : "Agra",
+    "lat" : "27°11'N",
+    "lon" : "78°01'E"
+  }, {
+    "city" : "Aguascalientes",
+    "lat" : "21°53'N",
+    "lon" : "102°18'W"
+  }, {
+    "city" : "Ahmedabad",
+    "lat" : "23°02'N",
+    "lon" : "72°35'E"
+  }, {
+    "city" : "Akita",
+    "lat" : "39°43'N",
+    "lon" : "140°07'E"
+  }, {
+    "city" : "Akureyri",
+    "lat" : "65°41'N",
+    "lon" : "18°06'W"
+  }, {
+    "city" : "Al Ain",
+    "lat" : "24°12'N",
+    "lon" : "55°44'E"
+  }, {
+    "city" : "Alajuela",
+    "lat" : "10°01'N",
+    "lon" : "84°13'W"
+  }, {
+    "city" : "Albuquerque",
+    "lat" : "35°07'N",
+    "lon" : "106°37'W"
+  }, {
+    "city" : "Alert",
+    "lat" : "82°30'N",
+    "lon" : "62°20'W"
+  }, {
+    "city" : "Alexandria",
+    "lat" : "31°12'N",
+    "lon" : "29°55'E"
+  }, {
+    "city" : "Algiers",
+    "lat" : "36°46'N",
+    "lon" : "3°13'E"
+  }, {
+    "city" : "Alicante",
+    "lat" : "38°20'N",
+    "lon" : "0°28'W"
+  }, {
+    "city" : "Almaty",
+    "lat" : "43°17'N",
+    "lon" : "76°54'E"
+  }, {
+    "city" : "Almería",
+    "lat" : "36°50'N",
+    "lon" : "2°28'W"
+  }, {
+    "city" : "Alofi",
+    "lat" : "19°03'S",
+    "lon" : "169°55'W"
+  }, {
+    "city" : "Alor Setar",
+    "lat" : "6°07'N",
+    "lon" : "100°22'E"
+  }, {
+    "city" : "Alta",
+    "lat" : "69°58'N",
+    "lon" : "23°16'E"
+  }, {
+    "city" : "Ambon",
+    "lat" : "3°42'S",
+    "lon" : "128°10'E"
+  }, {
+    "city" : "Amman",
+    "lat" : "31°56'N",
+    "lon" : "35°56'E"
+  }, {
+    "city" : "Amritsar",
+    "lat" : "31°38'N",
+    "lon" : "74°52'E"
+  }, {
+    "city" : "Amsterdam",
+    "lat" : "52°22'N",
+    "lon" : "4°54'E"
+  }, {
+    "city" : "Anadyr",
+    "lat" : "64°44'N",
+    "lon" : "177°31'E"
+  }, {
+    "city" : "Anchorage",
+    "lat" : "61°13'N",
+    "lon" : "149°54'W"
+  }, {
+    "city" : "Andorra la Vella",
+    "lat" : "42°30'N",
+    "lon" : "1°30'E"
+  }, {
+    "city" : "Angra do Heroísmo",
+    "lat" : "38°29'N",
+    "lon" : "27°13'W"
+  }, {
+    "city" : "Ankara",
+    "lat" : "39°56'N",
+    "lon" : "32°52'E"
+  }, {
+    "city" : "Antananarivo",
+    "lat" : "18°56'S",
+    "lon" : "47°31'E"
+  }, {
+    "city" : "Antofagasta",
+    "lat" : "23°39'S",
+    "lon" : "70°24'W"
+  }, {
+    "city" : "Antwerp",
+    "lat" : "51°13'N",
+    "lon" : "4°24'E"
+  }, {
+    "city" : "Aomori",
+    "lat" : "40°49'N",
+    "lon" : "140°45'E"
+  }, {
+    "city" : "Apia",
+    "lat" : "13°50'S",
+    "lon" : "171°45'W"
+  }, {
+    "city" : "Aracaju",
+    "lat" : "10°55'S",
+    "lon" : "37°03'W"
+  }, {
+    "city" : "Arak",
+    "lat" : "34°05'N",
+    "lon" : "49°41'E"
+  }, {
+    "city" : "Araraquara",
+    "lat" : "21°48'S",
+    "lon" : "48°11'W"
+  }, {
+    "city" : "Arbil",
+    "lat" : "36°11'N",
+    "lon" : "44°01'E"
+  }, {
+    "city" : "Arendal",
+    "lat" : "58°29'N",
+    "lon" : "8°47'E"
+  }, {
+    "city" : "Arequipa",
+    "lat" : "16°24'S",
+    "lon" : "71°32'W"
+  }, {
+    "city" : "Arica",
+    "lat" : "18°29'S",
+    "lon" : "70°20'W"
+  }, {
+    "city" : "Arkhangelsk",
+    "lat" : "64°32'N",
+    "lon" : "40°32'E"
+  }, {
+    "city" : "Asahikawa",
+    "lat" : "43°46'N",
+    "lon" : "142°22'E"
+  }, {
+    "city" : "Ashgabat",
+    "lat" : "37°56'N",
+    "lon" : "58°22'E"
+  }, {
+    "city" : "Asmara",
+    "lat" : "15°20'N",
+    "lon" : "38°56'E"
+  }, {
+    "city" : "Assis",
+    "lat" : "22°40'S",
+    "lon" : "50°25'W"
+  }, {
+    "city" : "Astana",
+    "lat" : "51°10'N",
+    "lon" : "71°26'E"
+  }, {
+    "city" : "Asunción",
+    "lat" : "25°17'S",
+    "lon" : "57°38'W"
+  }, {
+    "city" : "Athena",
+    "lat" : "37°58'N",
+    "lon" : "23°43'E"
+  }, {
+    "city" : "Atlanta",
+    "lat" : "33°45'N",
+    "lon" : "84°23'W"
+  }, {
+    "city" : "Atyrau",
+    "lat" : "47°07'N",
+    "lon" : "51°53'E"
+  }, {
+    "city" : "Auckland",
+    "lat" : "36°50'S",
+    "lon" : "174°44'E"
+  }, {
+    "city" : "Augusta",
+    "lat" : "44°19'N",
+    "lon" : "69°47'W"
+  }, {
+    "city" : "Austin",
+    "lat" : "30°15'N",
+    "lon" : "97°45'W"
+  }, {
+    "city" : "Avarua",
+    "lat" : "21°12'S",
+    "lon" : "159°46'W"
+  }, {
+    "city" : "Avezzano",
+    "lat" : "42°02'N",
+    "lon" : "13°25'E"
+  }, {
+    "city" : "Ayacucho",
+    "lat" : "13°10'S",
+    "lon" : "74°13'W"
+  }, {
+    "city" : "Ayutthaya",
+    "lat" : "14°21'N",
+    "lon" : "100°34'E"
+  }, {
+    "city" : "Baghdad",
+    "lat" : "33°20'N",
+    "lon" : "44°26'E"
+  }, {
+    "city" : "Bahía Blanca",
+    "lat" : "38°43'S",
+    "lon" : "62°16'W"
+  }, {
+    "city" : "Baku",
+    "lat" : "40°24'N",
+    "lon" : "49°53'E"
+  }, {
+    "city" : "Balikpapan",
+    "lat" : "1°16'S",
+    "lon" : "116°50'E"
+  }, {
+    "city" : "Baltimore",
+    "lat" : "39°17'N",
+    "lon" : "76°37'W"
+  }, {
+    "city" : "Bamako",
+    "lat" : "12°39'N",
+    "lon" : "8°00'W"
+  }, {
+    "city" : "Banda Aceh",
+    "lat" : "5°33'N",
+    "lon" : "95°19'E"
+  }, {
+    "city" : "Bandar Seri Begawan",
+    "lat" : "4°53'N",
+    "lon" : "114°57'E"
+  }, {
+    "city" : "Bandung",
+    "lat" : "6°55'S",
+    "lon" : "107°37'E"
+  }, {
+    "city" : "Bangalore",
+    "lat" : "12°58'N",
+    "lon" : "77°34'E"
+  }, {
+    "city" : "Bangkok",
+    "lat" : "13°45'N",
+    "lon" : "100°28'E"
+  }, {
+    "city" : "Bangui",
+    "lat" : "4°22'N",
+    "lon" : "18°35'E"
+  }, {
+    "city" : "Banjul",
+    "lat" : "13°27'N",
+    "lon" : "16°35'W"
+  }, {
+    "city" : "Barcelona",
+    "lat" : "41°23'N",
+    "lon" : "2°11'E"
+  }, {
+    "city" : "Bari",
+    "lat" : "41°07'N",
+    "lon" : "16°52'E"
+  }, {
+    "city" : "Barranquilla",
+    "lat" : "10°58'N",
+    "lon" : "74°48'W"
+  }, {
+    "city" : "Barrow",
+    "lat" : "71°18'N",
+    "lon" : "156°46'W"
+  }, {
+    "city" : "Basel",
+    "lat" : "47°34'N",
+    "lon" : "7°36'E"
+  }, {
+    "city" : "Basra",
+    "lat" : "30°30'N",
+    "lon" : "47°49'E"
+  }, {
+    "city" : "Basse-Terre",
+    "lat" : "16°00'N",
+    "lon" : "61°44'W"
+  }, {
+    "city" : "Basseterre",
+    "lat" : "17°18'N",
+    "lon" : "62°44'W"
+  }, {
+    "city" : "Bath",
+    "lat" : "43°55'N",
+    "lon" : "69°49'W"
+  }, {
+    "city" : "Bath",
+    "lat" : "51°23'N",
+    "lon" : "2°22'W"
+  }, {
+    "city" : "Batticaloa",
+    "lat" : "7°43'N",
+    "lon" : "81°42'E"
+  }, {
+    "city" : "Bauru",
+    "lat" : "22°19'S",
+    "lon" : "49°04'W"
+  }, {
+    "city" : "Beijing",
+    "lat" : "39°55'N",
+    "lon" : "116°23'E"
+  }, {
+    "city" : "Beirut",
+    "lat" : "33°53'N",
+    "lon" : "35°31'E"
+  }, {
+    "city" : "Belfast",
+    "lat" : "54°36'N",
+    "lon" : "5°56'W"
+  }, {
+    "city" : "Belgrade",
+    "lat" : "44°49'N",
+    "lon" : "20°28'E"
+  }, {
+    "city" : "Belize City",
+    "lat" : "17°30'N",
+    "lon" : "88°11'W"
+  }, {
+    "city" : "Bellingham",
+    "lat" : "48°45'N",
+    "lon" : "122°29'W"
+  }, {
+    "city" : "Belmopan",
+    "lat" : "17°15'N",
+    "lon" : "88°46'W"
+  }, {
+    "city" : "Belo Horizonte",
+    "lat" : "19°55'S",
+    "lon" : "43°56'W"
+  }, {
+    "city" : "Belushya Guba",
+    "lat" : "71°32'N",
+    "lon" : "52°19'E"
+  }, {
+    "city" : "Belém",
+    "lat" : "1°27'S",
+    "lon" : "48°30'W"
+  }, {
+    "city" : "Benghazi",
+    "lat" : "32°07'N",
+    "lon" : "20°04'E"
+  }, {
+    "city" : "Benin City",
+    "lat" : "6°19'N",
+    "lon" : "5°36'E"
+  }, {
+    "city" : "Bergen",
+    "lat" : "60°23'N",
+    "lon" : "5°20'E"
+  }, {
+    "city" : "Berlin",
+    "lat" : "52°31'N",
+    "lon" : "13°23'E"
+  }, {
+    "city" : "Bern",
+    "lat" : "46°57'N",
+    "lon" : "7°27'E"
+  }, {
+    "city" : "Bhisho",
+    "lat" : "32°51'S",
+    "lon" : "27°26'E"
+  }, {
+    "city" : "Bilbao",
+    "lat" : "43°15'N",
+    "lon" : "2°55'W"
+  }, {
+    "city" : "Birkirkara",
+    "lat" : "35°54'N",
+    "lon" : "14°28'E"
+  }, {
+    "city" : "Birmingham",
+    "lat" : "33°39'N",
+    "lon" : "86°49'W"
+  }, {
+    "city" : "Birmingham",
+    "lat" : "52°29'N",
+    "lon" : "1°54'W"
+  }, {
+    "city" : "Bishkek",
+    "lat" : "42°52'N",
+    "lon" : "74°37'E"
+  }, {
+    "city" : "Bismarck",
+    "lat" : "46°49'N",
+    "lon" : "100°47'W"
+  }, {
+    "city" : "Bissau",
+    "lat" : "11°51'N",
+    "lon" : "15°34'W"
+  }, {
+    "city" : "Blantyre",
+    "lat" : "15°47'S",
+    "lon" : "35°00'E"
+  }, {
+    "city" : "Bloemfontein",
+    "lat" : "29°07'S",
+    "lon" : "26°13'E"
+  }, {
+    "city" : "Boa Vista",
+    "lat" : "2°49'N",
+    "lon" : "60°40'W"
+  }, {
+    "city" : "Bobo-Dioulasso",
+    "lat" : "11°11'N",
+    "lon" : "4°17'W"
+  }, {
+    "city" : "Boden",
+    "lat" : "65°50'N",
+    "lon" : "21°43'E"
+  }, {
+    "city" : "Bodø",
+    "lat" : "67°18'N",
+    "lon" : "14°33'E"
+  }, {
+    "city" : "Bogor",
+    "lat" : "6°36'S",
+    "lon" : "106°48'E"
+  }, {
+    "city" : "Bogotá",
+    "lat" : "4°36'N",
+    "lon" : "74°05'W"
+  }, {
+    "city" : "Boise",
+    "lat" : "43°37'N",
+    "lon" : "116°12'W"
+  }, {
+    "city" : "Bologna",
+    "lat" : "44°30'N",
+    "lon" : "11°21'E"
+  }, {
+    "city" : "Bordeaux",
+    "lat" : "44°50'N",
+    "lon" : "0°35'W"
+  }, {
+    "city" : "Boston",
+    "lat" : "42°21'N",
+    "lon" : "71°04'W"
+  }, {
+    "city" : "Boulder",
+    "lat" : "40°01'N",
+    "lon" : "105°17'W"
+  }, {
+    "city" : "Bradford",
+    "lat" : "53°48'N",
+    "lon" : "1°45'W"
+  }, {
+    "city" : "Braga",
+    "lat" : "41°33'N",
+    "lon" : "8°25'W"
+  }, {
+    "city" : "Brasília",
+    "lat" : "15°48'S",
+    "lon" : "47°52'W"
+  }, {
+    "city" : "Bratislava",
+    "lat" : "48°09'N",
+    "lon" : "17°07'E"
+  }, {
+    "city" : "Bratsk",
+    "lat" : "56°07'N",
+    "lon" : "101°36'E"
+  }, {
+    "city" : "Brazzaville",
+    "lat" : "4°16'S",
+    "lon" : "15°18'E"
+  }, {
+    "city" : "Bremen",
+    "lat" : "53°05'N",
+    "lon" : "8°48'E"
+  }, {
+    "city" : "Brest",
+    "lat" : "48°23'N",
+    "lon" : "4°29'W"
+  }, {
+    "city" : "Bridgetown",
+    "lat" : "13°06'N",
+    "lon" : "59°37'W"
+  }, {
+    "city" : "Brighton and Hove",
+    "lat" : "50°50'N",
+    "lon" : "0°09'W"
+  }, {
+    "city" : "Brikama",
+    "lat" : "13°16'N",
+    "lon" : "16°39'W"
+  }, {
+    "city" : "Brisbane",
+    "lat" : "27°28'S",
+    "lon" : "153°02'E"
+  }, {
+    "city" : "Bristol",
+    "lat" : "51°27'N",
+    "lon" : "2°35'W"
+  }, {
+    "city" : "Brownsville",
+    "lat" : "25°55'N",
+    "lon" : "97°29'W"
+  }, {
+    "city" : "Brussels",
+    "lat" : "50°51'N",
+    "lon" : "4°21'E"
+  }, {
+    "city" : "Bucharest",
+    "lat" : "44°26'N",
+    "lon" : "26°06'E"
+  }, {
+    "city" : "Budapest",
+    "lat" : "47°28'N",
+    "lon" : "19°03'E"
+  }, {
+    "city" : "Buenos Aires",
+    "lat" : "34°36'S",
+    "lon" : "58°23'W"
+  }, {
+    "city" : "Buffalo",
+    "lat" : "42°54'N",
+    "lon" : "78°51'W"
+  }, {
+    "city" : "Bujumbura",
+    "lat" : "3°23'S",
+    "lon" : "29°22'E"
+  }, {
+    "city" : "Bulawayo",
+    "lat" : "20°10'S",
+    "lon" : "28°35'E"
+  }, {
+    "city" : "Bursa",
+    "lat" : "40°11'N",
+    "lon" : "29°03'E"
+  }, {
+    "city" : "Busan",
+    "lat" : "35°11'N",
+    "lon" : "129°05'E"
+  }, {
+    "city" : "Cabo San Lucas",
+    "lat" : "22°53'N",
+    "lon" : "109°55'W"
+  }, {
+    "city" : "Cagliari",
+    "lat" : "39°15'N",
+    "lon" : "9°03'E"
+  }, {
+    "city" : "Cairns",
+    "lat" : "16°56'S",
+    "lon" : "145°47'E"
+  }, {
+    "city" : "Cairo",
+    "lat" : "30°03'N",
+    "lon" : "31°14'E"
+  }, {
+    "city" : "Calais",
+    "lat" : "50°57'N",
+    "lon" : "1°51'E"
+  }, {
+    "city" : "Calama",
+    "lat" : "22°28'S",
+    "lon" : "68°56'W"
+  }, {
+    "city" : "Calgary",
+    "lat" : "51°03'N",
+    "lon" : "114°04'W"
+  }, {
+    "city" : "Cambridge",
+    "lat" : "52°12'N",
+    "lon" : "0°07'E"
+  }, {
+    "city" : "Campina Grande",
+    "lat" : "7°14'S",
+    "lon" : "35°53'W"
+  }, {
+    "city" : "Campinas",
+    "lat" : "22°54'S",
+    "lon" : "47°03'W"
+  }, {
+    "city" : "Campo Grande",
+    "lat" : "20°28'S",
+    "lon" : "54°37'W"
+  }, {
+    "city" : "Canberra",
+    "lat" : "35°18'S",
+    "lon" : "149°07'E"
+  }, {
+    "city" : "Cancún",
+    "lat" : "21°10'N",
+    "lon" : "86°51'W"
+  }, {
+    "city" : "Cannes",
+    "lat" : "43°33'N",
+    "lon" : "7°01'E"
+  }, {
+    "city" : "Cape Town",
+    "lat" : "33°56'S",
+    "lon" : "18°25'E"
+  }, {
+    "city" : "Caracas",
+    "lat" : "10°30'N",
+    "lon" : "66°55'W"
+  }, {
+    "city" : "Cardiff",
+    "lat" : "51°29'N",
+    "lon" : "3°11'W"
+  }, {
+    "city" : "Cartagena",
+    "lat" : "10°24'N",
+    "lon" : "75°30'W"
+  }, {
+    "city" : "Caruaru",
+    "lat" : "8°17'S",
+    "lon" : "35°59'W"
+  }, {
+    "city" : "Casablanca",
+    "lat" : "33°32'N",
+    "lon" : "7°35'W"
+  }, {
+    "city" : "Castries",
+    "lat" : "14°01'N",
+    "lon" : "60°59'W"
+  }, {
+    "city" : "Catania",
+    "lat" : "37°30'N",
+    "lon" : "15°05'E"
+  }, {
+    "city" : "Cayenne",
+    "lat" : "4°55'N",
+    "lon" : "52°20'W"
+  }, {
+    "city" : "Cebu City",
+    "lat" : "10°17'N",
+    "lon" : "123°54'E"
+  }, {
+    "city" : "Chaguanas",
+    "lat" : "10°30'N",
+    "lon" : "61°23'W"
+  }, {
+    "city" : "Chandigarh",
+    "lat" : "30°45'N",
+    "lon" : "76°47'E"
+  }, {
+    "city" : "Changchun",
+    "lat" : "43°54'N",
+    "lon" : "125°12'E"
+  }, {
+    "city" : "Charleroi",
+    "lat" : "50°24'N",
+    "lon" : "4°26'E"
+  }, {
+    "city" : "Charleston",
+    "lat" : "32°47'N",
+    "lon" : "79°56'W"
+  }, {
+    "city" : "Charleston",
+    "lat" : "38°21'N",
+    "lon" : "81°38'W"
+  }, {
+    "city" : "Charlotte",
+    "lat" : "35°14'N",
+    "lon" : "80°51'W"
+  }, {
+    "city" : "Charlotte Amalie",
+    "lat" : "18°21'N",
+    "lon" : "64°57'W"
+  }, {
+    "city" : "Charlottetown",
+    "lat" : "46°14'N",
+    "lon" : "63°09'W"
+  }, {
+    "city" : "Chelyabinsk",
+    "lat" : "55°09'N",
+    "lon" : "61°23'E"
+  }, {
+    "city" : "Chengdu",
+    "lat" : "30°40'N",
+    "lon" : "104°04'E"
+  }, {
+    "city" : "Chennai (Madras)",
+    "lat" : "13°05'N",
+    "lon" : "80°16'E"
+  }, {
+    "city" : "Cheyenne",
+    "lat" : "41°09'N",
+    "lon" : "104°48'W"
+  }, {
+    "city" : "Chiang Mai",
+    "lat" : "18°48'N",
+    "lon" : "99°00'E"
+  }, {
+    "city" : "Chiang Rai",
+    "lat" : "19°55'N",
+    "lon" : "99°50'E"
+  }, {
+    "city" : "Chiba",
+    "lat" : "35°36'N",
+    "lon" : "140°06'E"
+  }, {
+    "city" : "Chicago",
+    "lat" : "41°53'N",
+    "lon" : "87°38'W"
+  }, {
+    "city" : "Chihuahua",
+    "lat" : "28°38'N",
+    "lon" : "106°05'W"
+  }, {
+    "city" : "Chinandega",
+    "lat" : "12°37'N",
+    "lon" : "87°09'W"
+  }, {
+    "city" : "Chittagong",
+    "lat" : "22°22'N",
+    "lon" : "91°48'E"
+  }, {
+    "city" : "Chişinău",
+    "lat" : "47°00'N",
+    "lon" : "28°55'E"
+  }, {
+    "city" : "Chongjin",
+    "lat" : "41°48'N",
+    "lon" : "129°47'E"
+  }, {
+    "city" : "Chongqing",
+    "lat" : "29°34'N",
+    "lon" : "106°34'E"
+  }, {
+    "city" : "Christchurch",
+    "lat" : "43°32'S",
+    "lon" : "172°37'E"
+  }, {
+    "city" : "Chuí",
+    "lat" : "33°41'S",
+    "lon" : "53°27'W"
+  }, {
+    "city" : "Cincinnati",
+    "lat" : "39°06'N",
+    "lon" : "84°31'W"
+  }, {
+    "city" : "Ciudad Bolívar",
+    "lat" : "8°07'N",
+    "lon" : "63°33'W"
+  }, {
+    "city" : "Ciudad del Este",
+    "lat" : "25°31'S",
+    "lon" : "54°37'W"
+  }, {
+    "city" : "Ciudad Juárez",
+    "lat" : "31°44'N",
+    "lon" : "106°29'W"
+  }, {
+    "city" : "Cleveland",
+    "lat" : "41°29'N",
+    "lon" : "81°40'W"
+  }, {
+    "city" : "Cluj-Napoca",
+    "lat" : "46°46'N",
+    "lon" : "23°35'E"
+  }, {
+    "city" : "Cockburn Town",
+    "lat" : "21°28'N",
+    "lon" : "71°08'W"
+  }, {
+    "city" : "Coihaique",
+    "lat" : "45°34'S",
+    "lon" : "72°04'W"
+  }, {
+    "city" : "Colchester",
+    "lat" : "41°59'N",
+    "lon" : "82°56'W"
+  }, {
+    "city" : "Cologne",
+    "lat" : "50°56'N",
+    "lon" : "6°58'E"
+  }, {
+    "city" : "Colombo",
+    "lat" : "6°56'N",
+    "lon" : "79°51'E"
+  }, {
+    "city" : "Columbia",
+    "lat" : "34°00'N",
+    "lon" : "81°03'W"
+  }, {
+    "city" : "Columbus",
+    "lat" : "39°59'N",
+    "lon" : "82°59'W"
+  }, {
+    "city" : "Comodoro Rivadavia",
+    "lat" : "45°52'S",
+    "lon" : "67°29'W"
+  }, {
+    "city" : "Conakry",
+    "lat" : "9°31'N",
+    "lon" : "13°43'W"
+  }, {
+    "city" : "Concepción",
+    "lat" : "36°50'S",
+    "lon" : "73°03'W"
+  }, {
+    "city" : "Concord",
+    "lat" : "43°12'N",
+    "lon" : "71°32'W"
+  }, {
+    "city" : "Concordia",
+    "lat" : "75°06'S",
+    "lon" : "123°20'W"
+  }, {
+    "city" : "Copenhagen",
+    "lat" : "55°41'N",
+    "lon" : "12°34'E"
+  }, {
+    "city" : "Copiapó",
+    "lat" : "27°22'S",
+    "lon" : "70°20'W"
+  }, {
+    "city" : "Cork",
+    "lat" : "51°54'N",
+    "lon" : "8°28'W"
+  }, {
+    "city" : "Corpus Christi",
+    "lat" : "27°44'N",
+    "lon" : "97°24'W"
+  }, {
+    "city" : "Corrientes",
+    "lat" : "27°29'S",
+    "lon" : "58°49'W"
+  }, {
+    "city" : "Cotonou",
+    "lat" : "6°22'N",
+    "lon" : "2°26'E"
+  }, {
+    "city" : "Coventry",
+    "lat" : "52°24'N",
+    "lon" : "1°31'W"
+  }, {
+    "city" : "Craiova",
+    "lat" : "44°20'N",
+    "lon" : "23°49'E"
+  }, {
+    "city" : "Cuiabá",
+    "lat" : "15°36'S",
+    "lon" : "56°06'W"
+  }, {
+    "city" : "Culiacán",
+    "lat" : "24°48'N",
+    "lon" : "107°23'W"
+  }, {
+    "city" : "Curitiba",
+    "lat" : "25°25'S",
+    "lon" : "49°15'W"
+  }, {
+    "city" : "Cusco",
+    "lat" : "13°32'S",
+    "lon" : "71°58'W"
+  }, {
+    "city" : "Córdoba",
+    "lat" : "31°25'S",
+    "lon" : "64°11'W"
+  }, {
+    "city" : "Cúcuta",
+    "lat" : "7°54'N",
+    "lon" : "72°30'W"
+  }, {
+    "city" : "Da Nang",
+    "lat" : "16°04'N",
+    "lon" : "108°14'E"
+  }, {
+    "city" : "Daegu",
+    "lat" : "35°52'N",
+    "lon" : "128°36'E"
+  }, {
+    "city" : "Dakar",
+    "lat" : "14°42'N",
+    "lon" : "17°27'W"
+  }, {
+    "city" : "Dalian",
+    "lat" : "38°55'N",
+    "lon" : "121°38'E"
+  }, {
+    "city" : "Dallas",
+    "lat" : "32°47'N",
+    "lon" : "96°48'W"
+  }, {
+    "city" : "Damascus",
+    "lat" : "33°31'N",
+    "lon" : "36°18'E"
+  }, {
+    "city" : "Dammam",
+    "lat" : "26°17'N",
+    "lon" : "50°12'E"
+  }, {
+    "city" : "Dar es Salaam",
+    "lat" : "6°48'S",
+    "lon" : "39°17'E"
+  }, {
+    "city" : "Darwin",
+    "lat" : "12°27'S",
+    "lon" : "130°50'E"
+  }, {
+    "city" : "Davao City",
+    "lat" : "7°04'N",
+    "lon" : "125°36'E"
+  }, {
+    "city" : "Deadhorse",
+    "lat" : "70°12'N",
+    "lon" : "148°31'W"
+  }, {
+    "city" : "Dededo",
+    "lat" : "13°31'N",
+    "lon" : "144°50'E"
+  }, {
+    "city" : "Denpasar",
+    "lat" : "8°39'S",
+    "lon" : "115°13'E"
+  }, {
+    "city" : "Denver",
+    "lat" : "39°44'N",
+    "lon" : "104°59'W"
+  }, {
+    "city" : "Derby",
+    "lat" : "52°55'N",
+    "lon" : "1°28'W"
+  }, {
+    "city" : "Derry",
+    "lat" : "55°00'N",
+    "lon" : "7°18'W"
+  }, {
+    "city" : "Des Moines",
+    "lat" : "41°35'N",
+    "lon" : "93°37'W"
+  }, {
+    "city" : "Detroit",
+    "lat" : "42°20'N",
+    "lon" : "83°03'W"
+  }, {
+    "city" : "Dhaka",
+    "lat" : "23°42'N",
+    "lon" : "90°23'E"
+  }, {
+    "city" : "Dibrugarh",
+    "lat" : "27°29'N",
+    "lon" : "95°00'E"
+  }, {
+    "city" : "Dikson",
+    "lat" : "73°30'N",
+    "lon" : "80°31'E"
+  }, {
+    "city" : "Dili",
+    "lat" : "8°33'S",
+    "lon" : "125°35'E"
+  }, {
+    "city" : "Djibouti",
+    "lat" : "11°35'N",
+    "lon" : "43°09'E"
+  }, {
+    "city" : "Dnipro",
+    "lat" : "48°24'N",
+    "lon" : "34°59'E"
+  }, {
+    "city" : "Dodoma",
+    "lat" : "6°10'S",
+    "lon" : "35°45'E"
+  }, {
+    "city" : "Doha",
+    "lat" : "25°17'N",
+    "lon" : "51°32'E"
+  }, {
+    "city" : "Donetsk",
+    "lat" : "48°00'N",
+    "lon" : "37°48'E"
+  }, {
+    "city" : "Dongguan",
+    "lat" : "23°02'N",
+    "lon" : "113°43'E"
+  }, {
+    "city" : "Dortmund",
+    "lat" : "51°31'N",
+    "lon" : "7°28'E"
+  }, {
+    "city" : "Douala",
+    "lat" : "4°03'N",
+    "lon" : "9°42'E"
+  }, {
+    "city" : "Douglas",
+    "lat" : "54°09'N",
+    "lon" : "4°29'W"
+  }, {
+    "city" : "Dover",
+    "lat" : "39°10'N",
+    "lon" : "75°32'W"
+  }, {
+    "city" : "Dresden",
+    "lat" : "51°02'N",
+    "lon" : "13°44'E"
+  }, {
+    "city" : "Drobeta Turnu Severin",
+    "lat" : "44°38'N",
+    "lon" : "22°39'E"
+  }, {
+    "city" : "Dubai",
+    "lat" : "25°15'N",
+    "lon" : "55°18'E"
+  }, {
+    "city" : "Dublin",
+    "lat" : "53°21'N",
+    "lon" : "6°16'W"
+  }, {
+    "city" : "Duluth",
+    "lat" : "46°48'N",
+    "lon" : "92°06'W"
+  }, {
+    "city" : "Dundee",
+    "lat" : "56°28'N",
+    "lon" : "2°58'W"
+  }, {
+    "city" : "Dunedin",
+    "lat" : "45°52'S",
+    "lon" : "170°30'E"
+  }, {
+    "city" : "Durango",
+    "lat" : "24°01'N",
+    "lon" : "104°40'W"
+  }, {
+    "city" : "Durban",
+    "lat" : "29°53'S",
+    "lon" : "31°03'E"
+  }, {
+    "city" : "Dushanbe",
+    "lat" : "38°32'N",
+    "lon" : "68°47'E"
+  }, {
+    "city" : "Düsseldorf",
+    "lat" : "51°14'N",
+    "lon" : "6°47'E"
+  }, {
+    "city" : "Edinburgh",
+    "lat" : "55°57'N",
+    "lon" : "3°11'W"
+  }, {
+    "city" : "Edinburgh of the Seven Seas",
+    "lat" : "37°04'S",
+    "lon" : "12°19'W"
+  }, {
+    "city" : "Edmonton",
+    "lat" : "53°32'N",
+    "lon" : "113°30'W"
+  }, {
+    "city" : "Eilat",
+    "lat" : "29°33'N",
+    "lon" : "34°57'E"
+  }, {
+    "city" : "El Aaiún",
+    "lat" : "27°09'N",
+    "lon" : "13°12'W"
+  }, {
+    "city" : "El Centro",
+    "lat" : "32°38'N",
+    "lon" : "115°33'W"
+  }, {
+    "city" : "El Paso",
+    "lat" : "31°47'N",
+    "lon" : "106°25'W"
+  }, {
+    "city" : "Enschede",
+    "lat" : "52°13'N",
+    "lon" : "6°54'E"
+  }, {
+    "city" : "Ensenada",
+    "lat" : "31°51'N",
+    "lon" : "116°36'W"
+  }, {
+    "city" : "Entebbe",
+    "lat" : "0°03'N",
+    "lon" : "32°28'E"
+  }, {
+    "city" : "Enugu",
+    "lat" : "6°27'N",
+    "lon" : "7°31'E"
+  }, {
+    "city" : "Erfurt",
+    "lat" : "50°59'N",
+    "lon" : "11°02'E"
+  }, {
+    "city" : "Esbjerg",
+    "lat" : "55°29'N",
+    "lon" : "8°27'E"
+  }, {
+    "city" : "Eskisehir",
+    "lat" : "39°47'N",
+    "lon" : "30°31'E"
+  }, {
+    "city" : "Esperanza",
+    "lat" : "63°24'S",
+    "lon" : "56°59'W"
+  }, {
+    "city" : "Espoo",
+    "lat" : "60°12'N",
+    "lon" : "24°39'E"
+  }, {
+    "city" : "Eureka",
+    "lat" : "40°48'N",
+    "lon" : "124°09'W"
+  }, {
+    "city" : "Eureka",
+    "lat" : "79°59'N",
+    "lon" : "85°56'W"
+  }, {
+    "city" : "Exeter",
+    "lat" : "50°43'N",
+    "lon" : "3°32'W"
+  }, {
+    "city" : "Fairbanks",
+    "lat" : "64°51'N",
+    "lon" : "147°43'W"
+  }, {
+    "city" : "Faisalabad",
+    "lat" : "31°25'N",
+    "lon" : "73°05'E"
+  }, {
+    "city" : "Fernando de Noronha",
+    "lat" : "3°51'S",
+    "lon" : "32°25'W"
+  }, {
+    "city" : "Flensburg",
+    "lat" : "54°47'N",
+    "lon" : "9°26'E"
+  }, {
+    "city" : "Florence",
+    "lat" : "43°47'N",
+    "lon" : "11°15'E"
+  }, {
+    "city" : "Flores Island",
+    "lat" : "39°28'N",
+    "lon" : "31°14'W"
+  }, {
+    "city" : "Florianópolis",
+    "lat" : "27°50'S",
+    "lon" : "48°25'W"
+  }, {
+    "city" : "Follonica",
+    "lat" : "42°56'N",
+    "lon" : "10°46'E"
+  }, {
+    "city" : "Forked River",
+    "lat" : "39°48'N",
+    "lon" : "74°06'W"
+  }, {
+    "city" : "Fort McMurray",
+    "lat" : "56°44'N",
+    "lon" : "111°23'W"
+  }, {
+    "city" : "Fort Wayne",
+    "lat" : "41°05'N",
+    "lon" : "85°08'W"
+  }, {
+    "city" : "Fort-de-France",
+    "lat" : "14°36'N",
+    "lon" : "61°05'W"
+  }, {
+    "city" : "Fortaleza",
+    "lat" : "3°43'S",
+    "lon" : "38°33'W"
+  }, {
+    "city" : "Francistown",
+    "lat" : "21°10'S",
+    "lon" : "27°31'E"
+  }, {
+    "city" : "Frankfurt am Main",
+    "lat" : "50°07'N",
+    "lon" : "8°41'E"
+  }, {
+    "city" : "Fredericton",
+    "lat" : "45°57'N",
+    "lon" : "66°40'W"
+  }, {
+    "city" : "Freetown",
+    "lat" : "8°29'N",
+    "lon" : "13°14'W"
+  }, {
+    "city" : "Fritz Creek",
+    "lat" : "59°46'N",
+    "lon" : "151°13'W"
+  }, {
+    "city" : "Fukui",
+    "lat" : "36°04'N",
+    "lon" : "136°13'E"
+  }, {
+    "city" : "Fukuoka",
+    "lat" : "33°35'N",
+    "lon" : "130°24'E"
+  }, {
+    "city" : "Fukushima",
+    "lat" : "37°46'N",
+    "lon" : "140°28'E"
+  }, {
+    "city" : "Funafuti",
+    "lat" : "8°31'S",
+    "lon" : "179°13'E"
+  }, {
+    "city" : "Funchal",
+    "lat" : "32°39'N",
+    "lon" : "16°55'W"
+  }, {
+    "city" : "Gaborone",
+    "lat" : "24°39'S",
+    "lon" : "25°55'E"
+  }, {
+    "city" : "Gangtok",
+    "lat" : "27°20'N",
+    "lon" : "88°37'E"
+  }, {
+    "city" : "Garanhuns",
+    "lat" : "8°53'S",
+    "lon" : "36°30'W"
+  }, {
+    "city" : "Gaza",
+    "lat" : "31°31'N",
+    "lon" : "34°27'E"
+  }, {
+    "city" : "Gaziantep",
+    "lat" : "37°04'N",
+    "lon" : "37°23'E"
+  }, {
+    "city" : "Gdańsk",
+    "lat" : "54°22'N",
+    "lon" : "18°38'E"
+  }, {
+    "city" : "Gdynia",
+    "lat" : "54°30'N",
+    "lon" : "18°33'E"
+  }, {
+    "city" : "Geelong",
+    "lat" : "38°09'S",
+    "lon" : "144°21'E"
+  }, {
+    "city" : "Geneva",
+    "lat" : "46°12'N",
+    "lon" : "6°09'E"
+  }, {
+    "city" : "Genoa",
+    "lat" : "44°24'N",
+    "lon" : "8°55'E"
+  }, {
+    "city" : "George Town",
+    "lat" : "5°25'N",
+    "lon" : "100°19'E"
+  }, {
+    "city" : "George Town",
+    "lat" : "19°18'N",
+    "lon" : "81°23'W"
+  }, {
+    "city" : "Georgetown",
+    "lat" : "6°48'N",
+    "lon" : "58°10'W"
+  }, {
+    "city" : "Ghent",
+    "lat" : "51°03'N",
+    "lon" : "3°44'E"
+  }, {
+    "city" : "Gibraltar",
+    "lat" : "36°08'N",
+    "lon" : "5°21'W"
+  }, {
+    "city" : "Gifu",
+    "lat" : "35°25'N",
+    "lon" : "136°46'E"
+  }, {
+    "city" : "Gijón",
+    "lat" : "43°32'N",
+    "lon" : "5°39'W"
+  }, {
+    "city" : "Glasgow",
+    "lat" : "55°51'N",
+    "lon" : "4°16'W"
+  }, {
+    "city" : "Gloucester",
+    "lat" : "51°52'N",
+    "lon" : "2°14'W"
+  }, {
+    "city" : "Goiânia",
+    "lat" : "16°40'S",
+    "lon" : "49°15'W"
+  }, {
+    "city" : "Gold Coast",
+    "lat" : "28°01'S",
+    "lon" : "153°24'E"
+  }, {
+    "city" : "Gomel",
+    "lat" : "52°26'N",
+    "lon" : "30°59'E"
+  }, {
+    "city" : "Gothenburg",
+    "lat" : "57°42'N",
+    "lon" : "11°58'E"
+  }, {
+    "city" : "Governador Valadares",
+    "lat" : "18°51'S",
+    "lon" : "41°56'W"
+  }, {
+    "city" : "Grande Prairie",
+    "lat" : "55°10'N",
+    "lon" : "118°48'W"
+  }, {
+    "city" : "Graz",
+    "lat" : "47°04'N",
+    "lon" : "15°26'E"
+  }, {
+    "city" : "Greenwich",
+    "lat" : "51°29'N",
+    "lon" : "0°00'E/W"
+  }, {
+    "city" : "Grise Fiord",
+    "lat" : "76°25'N",
+    "lon" : "82°54'W"
+  }, {
+    "city" : "Groningen",
+    "lat" : "53°13'N",
+    "lon" : "6°33'E"
+  }, {
+    "city" : "Grytviken",
+    "lat" : "54°17'S",
+    "lon" : "36°30'W"
+  }, {
+    "city" : "Guadalajara",
+    "lat" : "20°40'N",
+    "lon" : "103°21'W"
+  }, {
+    "city" : "Guangzhou",
+    "lat" : "23°08'N",
+    "lon" : "113°16'E"
+  }, {
+    "city" : "Guatemala City",
+    "lat" : "14°37'N",
+    "lon" : "90°32'W"
+  }, {
+    "city" : "Guayaquil",
+    "lat" : "2°11'S",
+    "lon" : "79°53'W"
+  }, {
+    "city" : "Guwahati",
+    "lat" : "26°11'N",
+    "lon" : "91°44'E"
+  }, {
+    "city" : "Gweru",
+    "lat" : "19°27'S",
+    "lon" : "29°48'E"
+  }, {
+    "city" : "Gällivare",
+    "lat" : "67°08'N",
+    "lon" : "20°40'E"
+  }, {
+    "city" : "Haarlem",
+    "lat" : "52°23'N",
+    "lon" : "4°38'E"
+  }, {
+    "city" : "Hagåtña",
+    "lat" : "13°29'N",
+    "lon" : "144°45'E"
+  }, {
+    "city" : "Hai Phong",
+    "lat" : "20°51'N",
+    "lon" : "106°41'E"
+  }, {
+    "city" : "Haikou",
+    "lat" : "20°04'N",
+    "lon" : "110°34'E"
+  }, {
+    "city" : "Hakodate",
+    "lat" : "41°46'N",
+    "lon" : "140°44'E"
+  }, {
+    "city" : "Halifax",
+    "lat" : "44°51'N",
+    "lon" : "63°12'W"
+  }, {
+    "city" : "Halkida",
+    "lat" : "38°28'N",
+    "lon" : "23°36'E"
+  }, {
+    "city" : "Hamburg",
+    "lat" : "53°34'N",
+    "lon" : "10°00'E"
+  }, {
+    "city" : "Hamilton",
+    "lat" : "37°47'S",
+    "lon" : "175°17'E"
+  }, {
+    "city" : "Hamilton",
+    "lat" : "32°18'N",
+    "lon" : "64°47'W"
+  }, {
+    "city" : "Hammerfest",
+    "lat" : "70°40'N",
+    "lon" : "23°41'E"
+  }, {
+    "city" : "Handan",
+    "lat" : "36°36'N",
+    "lon" : "114°29'E"
+  }, {
+    "city" : "Hanga Roa",
+    "lat" : "27°09'S",
+    "lon" : "109°26'W"
+  }, {
+    "city" : "Hangzhou",
+    "lat" : "30°15'N",
+    "lon" : "120°10'E"
+  }, {
+    "city" : "Hannover",
+    "lat" : "52°22'N",
+    "lon" : "9°43'E"
+  }, {
+    "city" : "Hanoi",
+    "lat" : "21°02'N",
+    "lon" : "105°51'E"
+  }, {
+    "city" : "Haparanda",
+    "lat" : "65°50'N",
+    "lon" : "24°08'E"
+  }, {
+    "city" : "Harare",
+    "lat" : "17°52'S",
+    "lon" : "31°02'E"
+  }, {
+    "city" : "Harbin",
+    "lat" : "45°45'N",
+    "lon" : "126°38'E"
+  }, {
+    "city" : "Hargeisa",
+    "lat" : "9°34'N",
+    "lon" : "44°04'E"
+  }, {
+    "city" : "Harstad",
+    "lat" : "68°47'N",
+    "lon" : "16°32'E"
+  }, {
+    "city" : "Hartford",
+    "lat" : "41°46'N",
+    "lon" : "72°40'W"
+  }, {
+    "city" : "Hastings",
+    "lat" : "39°39'S",
+    "lon" : "176°50'E"
+  }, {
+    "city" : "Hat Yai",
+    "lat" : "7°01'N",
+    "lon" : "100°28'E"
+  }, {
+    "city" : "Havana",
+    "lat" : "23°08'N",
+    "lon" : "82°23'W"
+  }, {
+    "city" : "Helena",
+    "lat" : "46°36'N",
+    "lon" : "112°02'W"
+  }, {
+    "city" : "Helsinki",
+    "lat" : "60°10'N",
+    "lon" : "24°56'E"
+  }, {
+    "city" : "Heraklion",
+    "lat" : "35°20'N",
+    "lon" : "25°08'E"
+  }, {
+    "city" : "Hermosillo",
+    "lat" : "29°06'N",
+    "lon" : "110°57'W"
+  }, {
+    "city" : "Hilo",
+    "lat" : "19°42'N",
+    "lon" : "155°05'W"
+  }, {
+    "city" : "Hiroshima",
+    "lat" : "34°23'N",
+    "lon" : "132°27'E"
+  }, {
+    "city" : "Ho Chi Minh City",
+    "lat" : "10°46'N",
+    "lon" : "106°41'E"
+  }, {
+    "city" : "Hobart",
+    "lat" : "42°53'S",
+    "lon" : "147°20'E"
+  }, {
+    "city" : "Hong Kong",
+    "lat" : "22°17'N",
+    "lon" : "114°10'E"
+  }, {
+    "city" : "Honiara",
+    "lat" : "9°28'S",
+    "lon" : "159°49'E"
+  }, {
+    "city" : "Honningsvåg",
+    "lat" : "70°59'N",
+    "lon" : "25°59'E"
+  }, {
+    "city" : "Honolulu",
+    "lat" : "21°19'N",
+    "lon" : "157°50'W"
+  }, {
+    "city" : "Horta",
+    "lat" : "38°35'N",
+    "lon" : "28°43'W"
+  }, {
+    "city" : "Houston",
+    "lat" : "29°46'N",
+    "lon" : "95°23'W"
+  }, {
+    "city" : "Huambo",
+    "lat" : "12°46'S",
+    "lon" : "15°44'E"
+  }, {
+    "city" : "Huế",
+    "lat" : "16°28'N",
+    "lon" : "107°35'E"
+  }, {
+    "city" : "Hyderabad",
+    "lat" : "17°22'N",
+    "lon" : "78°29'E"
+  }, {
+    "city" : "Hyderabad",
+    "lat" : "25°23'N",
+    "lon" : "68°22'E"
+  }, {
+    "city" : "Ibadan",
+    "lat" : "7°24'N",
+    "lon" : "3°55'E"
+  }, {
+    "city" : "Ibiza",
+    "lat" : "38°59'N",
+    "lon" : "1°26'E"
+  }, {
+    "city" : "Ilhéus",
+    "lat" : "14°47'S",
+    "lon" : "39°03'W"
+  }, {
+    "city" : "Iloilo City",
+    "lat" : "10°43'N",
+    "lon" : "122°34'E"
+  }, {
+    "city" : "Imperatriz",
+    "lat" : "5°32'S",
+    "lon" : "47°29'W"
+  }, {
+    "city" : "Incheon",
+    "lat" : "37°29'N",
+    "lon" : "126°38'E"
+  }, {
+    "city" : "Indianapolis",
+    "lat" : "39°46'N",
+    "lon" : "86°09'W"
+  }, {
+    "city" : "Innsbruck",
+    "lat" : "47°16'N",
+    "lon" : "11°23'E"
+  }, {
+    "city" : "Inuvik",
+    "lat" : "68°21'N",
+    "lon" : "133°43'W"
+  }, {
+    "city" : "Invercargill",
+    "lat" : "46°25'S",
+    "lon" : "168°21'E"
+  }, {
+    "city" : "Inverness",
+    "lat" : "57°28'N",
+    "lon" : "4°14'W"
+  }, {
+    "city" : "Ipoh",
+    "lat" : "4°36'N",
+    "lon" : "101°04'E"
+  }, {
+    "city" : "Iqaluit",
+    "lat" : "63°45'N",
+    "lon" : "68°31'W"
+  }, {
+    "city" : "Iquique",
+    "lat" : "20°13'S",
+    "lon" : "70°09'W"
+  }, {
+    "city" : "Iquitos",
+    "lat" : "3°44'S",
+    "lon" : "73°15'W"
+  }, {
+    "city" : "Irkutsk",
+    "lat" : "52°19'N",
+    "lon" : "104°18'E"
+  }, {
+    "city" : "Isfahan",
+    "lat" : "32°38'N",
+    "lon" : "51°39'E"
+  }, {
+    "city" : "Islamabad",
+    "lat" : "33°43'N",
+    "lon" : "73°04'E"
+  }, {
+    "city" : "Istanbul",
+    "lat" : "41°01'N",
+    "lon" : "28°57'E"
+  }, {
+    "city" : "Izhevsk",
+    "lat" : "56°50'N",
+    "lon" : "53°11'E"
+  }, {
+    "city" : "İzmir",
+    "lat" : "38°26'N",
+    "lon" : "27°09'E"
+  }, {
+    "city" : "Jackson",
+    "lat" : "32°18'N",
+    "lon" : "90°11'W"
+  }, {
+    "city" : "Jacksonville",
+    "lat" : "30°20'N",
+    "lon" : "81°40'W"
+  }, {
+    "city" : "Jaffna",
+    "lat" : "9°40'N",
+    "lon" : "80°00'E"
+  }, {
+    "city" : "Jaipur",
+    "lat" : "26°56'N",
+    "lon" : "75°49'E"
+  }, {
+    "city" : "Jakarta",
+    "lat" : "6°12'S",
+    "lon" : "106°48'E"
+  }, {
+    "city" : "Jamestown",
+    "lat" : "15°55'S",
+    "lon" : "5°43'W"
+  }, {
+    "city" : "Jayapura",
+    "lat" : "2°32'S",
+    "lon" : "140°43'E"
+  }, {
+    "city" : "Jeddah",
+    "lat" : "21°33'N",
+    "lon" : "39°10'E"
+  }, {
+    "city" : "Jersey City",
+    "lat" : "40°43'N",
+    "lon" : "74°04'W"
+  }, {
+    "city" : "Jerusalem",
+    "lat" : "31°47'N",
+    "lon" : "35°13'E"
+  }, {
+    "city" : "Jinan",
+    "lat" : "36°40'N",
+    "lon" : "116°59'E"
+  }, {
+    "city" : "Johannesburg",
+    "lat" : "26°12'S",
+    "lon" : "28°03'E"
+  }, {
+    "city" : "Johor Bahru",
+    "lat" : "1°29'N",
+    "lon" : "103°44'E"
+  }, {
+    "city" : "João Pessoa",
+    "lat" : "7°05'S",
+    "lon" : "34°50'W"
+  }, {
+    "city" : "Juazeiro do Norte",
+    "lat" : "7°12'S",
+    "lon" : "39°20'W"
+  }, {
+    "city" : "Juba",
+    "lat" : "4°51'N",
+    "lon" : "31°36'E"
+  }, {
+    "city" : "Juiz de Fora",
+    "lat" : "21°46'S",
+    "lon" : "43°21'W"
+  }, {
+    "city" : "Juneau",
+    "lat" : "58°18'N",
+    "lon" : "134°25'W"
+  }, {
+    "city" : "Jyväskylä",
+    "lat" : "62°15'N",
+    "lon" : "25°45'E"
+  }, {
+    "city" : "Kabul",
+    "lat" : "34°32'N",
+    "lon" : "69°10'E"
+  }, {
+    "city" : "Kaesong",
+    "lat" : "37°58'N",
+    "lon" : "126°33'E"
+  }, {
+    "city" : "Kagoshima",
+    "lat" : "31°36'N",
+    "lon" : "130°33'E"
+  }, {
+    "city" : "Kaliningrad",
+    "lat" : "54°43'N",
+    "lon" : "20°31'E"
+  }, {
+    "city" : "Kamloops",
+    "lat" : "50°41'N",
+    "lon" : "120°20'W"
+  }, {
+    "city" : "Kampala",
+    "lat" : "0°19'N",
+    "lon" : "32°35'E"
+  }, {
+    "city" : "Kanazawa",
+    "lat" : "36°34'N",
+    "lon" : "136°39'E"
+  }, {
+    "city" : "Kandahar",
+    "lat" : "31°37'N",
+    "lon" : "65°43'E"
+  }, {
+    "city" : "Kandy",
+    "lat" : "7°18'N",
+    "lon" : "80°38'E"
+  }, {
+    "city" : "Kano",
+    "lat" : "12°00'N",
+    "lon" : "8°31'E"
+  }, {
+    "city" : "Kanpur",
+    "lat" : "26°28'N",
+    "lon" : "80°20'E"
+  }, {
+    "city" : "Kansas City",
+    "lat" : "39°06'N",
+    "lon" : "94°35'W"
+  }, {
+    "city" : "Kaohsiung",
+    "lat" : "22°38'N",
+    "lon" : "120°16'E"
+  }, {
+    "city" : "Karachi",
+    "lat" : "24°52'N",
+    "lon" : "67°01'E"
+  }, {
+    "city" : "Karbala",
+    "lat" : "32°37'N",
+    "lon" : "41°02'E"
+  }, {
+    "city" : "Kathmandu",
+    "lat" : "27°42'N",
+    "lon" : "85°20'E"
+  }, {
+    "city" : "Kawasaki",
+    "lat" : "35°31'N",
+    "lon" : "139°42'E"
+  }, {
+    "city" : "Kazan",
+    "lat" : "55°47'N",
+    "lon" : "49°08'E"
+  }, {
+    "city" : "Kelowna",
+    "lat" : "49°53'N",
+    "lon" : "119°30'W"
+  }, {
+    "city" : "Kemi",
+    "lat" : "65°44'N",
+    "lon" : "24°34'E"
+  }, {
+    "city" : "Kemijärvi",
+    "lat" : "66°43'N",
+    "lon" : "27°26'E"
+  }, {
+    "city" : "Key West",
+    "lat" : "24°34'N",
+    "lon" : "81°47'W"
+  }, {
+    "city" : "Kharkiv",
+    "lat" : "50°00'N",
+    "lon" : "36°14'E"
+  }, {
+    "city" : "Khartoum",
+    "lat" : "15°38'N",
+    "lon" : "32°32'E"
+  }, {
+    "city" : "Khon Kaen",
+    "lat" : "16°26'N",
+    "lon" : "102°50'E"
+  }, {
+    "city" : "Kiel",
+    "lat" : "54°20'N",
+    "lon" : "10°08'E"
+  }, {
+    "city" : "Kiev",
+    "lat" : "50°27'N",
+    "lon" : "30°31'E"
+  }, {
+    "city" : "Kigali",
+    "lat" : "1°57'S",
+    "lon" : "30°04'E"
+  }, {
+    "city" : "Kimberley",
+    "lat" : "28°45'S",
+    "lon" : "24°46'E"
+  }, {
+    "city" : "Kingston",
+    "lat" : "29°04'S",
+    "lon" : "167°58'E"
+  }, {
+    "city" : "Kingston",
+    "lat" : "17°59'N",
+    "lon" : "76°48'W"
+  }, {
+    "city" : "Kingstown",
+    "lat" : "13°09'N",
+    "lon" : "61°14'W"
+  }, {
+    "city" : "Kinshasa",
+    "lat" : "4°20'S",
+    "lon" : "15°19'E"
+  }, {
+    "city" : "Kirkenes",
+    "lat" : "69°43'N",
+    "lon" : "30°02'E"
+  }, {
+    "city" : "Kirkuk",
+    "lat" : "35°28'N",
+    "lon" : "44°19'E"
+  }, {
+    "city" : "Kiruna",
+    "lat" : "67°51'N",
+    "lon" : "20°13'E"
+  }, {
+    "city" : "Kismayo",
+    "lat" : "0°21'S",
+    "lon" : "42°33'E"
+  }, {
+    "city" : "Knoxville",
+    "lat" : "35°58'N",
+    "lon" : "83°57'W"
+  }, {
+    "city" : "Kochi",
+    "lat" : "9°58'N",
+    "lon" : "76°17'E"
+  }, {
+    "city" : "Kolkata (Calcutta)",
+    "lat" : "22°34'N",
+    "lon" : "88°22'E"
+  }, {
+    "city" : "Konya",
+    "lat" : "37°52'N",
+    "lon" : "32°29'E"
+  }, {
+    "city" : "Koror",
+    "lat" : "7°22'N",
+    "lon" : "134°29'E"
+  }, {
+    "city" : "Kota Bharu",
+    "lat" : "6°08'N",
+    "lon" : "102°15'E"
+  }, {
+    "city" : "Kota Kinabalu",
+    "lat" : "5°58'N",
+    "lon" : "116°06'E"
+  }, {
+    "city" : "Koulikoro",
+    "lat" : "12°52'N",
+    "lon" : "7°34'W"
+  }, {
+    "city" : "Kraków",
+    "lat" : "50°04'N",
+    "lon" : "19°56'E"
+  }, {
+    "city" : "Krasnodar",
+    "lat" : "45°02'N",
+    "lon" : "38°58'E"
+  }, {
+    "city" : "Krasnoyarsk",
+    "lat" : "56°01'N",
+    "lon" : "93°04'E"
+  }, {
+    "city" : "Kristiansand",
+    "lat" : "58°10'N",
+    "lon" : "8°00'E"
+  }, {
+    "city" : "Kuala Lumpur",
+    "lat" : "3°09'N",
+    "lon" : "101°42'E"
+  }, {
+    "city" : "Kuching",
+    "lat" : "1°34'N",
+    "lon" : "110°21'E"
+  }, {
+    "city" : "Kulpahar",
+    "lat" : "25°19'N",
+    "lon" : "79°38'E"
+  }, {
+    "city" : "Kumamoto",
+    "lat" : "32°47'N",
+    "lon" : "130°44'E"
+  }, {
+    "city" : "Kumasi",
+    "lat" : "6°40'N",
+    "lon" : "1°37'W"
+  }, {
+    "city" : "Kunming",
+    "lat" : "25°04'N",
+    "lon" : "102°41'E"
+  }, {
+    "city" : "Kuopio",
+    "lat" : "62°54'N",
+    "lon" : "27°41'E"
+  }, {
+    "city" : "Kushiro",
+    "lat" : "42°59'N",
+    "lon" : "144°23'E"
+  }, {
+    "city" : "Kuusamo",
+    "lat" : "65°58'N",
+    "lon" : "29°11'E"
+  }, {
+    "city" : "Kuwait City",
+    "lat" : "29°22'N",
+    "lon" : "47°59'E"
+  }, {
+    "city" : "Kyoto",
+    "lat" : "35°01'N",
+    "lon" : "135°46'E"
+  }, {
+    "city" : "Kōbe",
+    "lat" : "34°41'N",
+    "lon" : "135°12'E"
+  }, {
+    "city" : "Kōchi",
+    "lat" : "33°34'N",
+    "lon" : "133°32'E"
+  }, {
+    "city" : "Kōfu",
+    "lat" : "35°40'N",
+    "lon" : "138°34'E"
+  }, {
+    "city" : "La Paz",
+    "lat" : "16°30'S",
+    "lon" : "68°09'W"
+  }, {
+    "city" : "La Serena",
+    "lat" : "29°54'S",
+    "lon" : "71°15'W"
+  }, {
+    "city" : "Labasa",
+    "lat" : "16°26'S",
+    "lon" : "179°22'E"
+  }, {
+    "city" : "Lagos",
+    "lat" : "6°27'N",
+    "lon" : "3°24'E"
+  }, {
+    "city" : "Lahore",
+    "lat" : "31°33'N",
+    "lon" : "74°21'E"
+  }, {
+    "city" : "Lahti",
+    "lat" : "60°59'N",
+    "lon" : "25°39'E"
+  }, {
+    "city" : "Lancaster",
+    "lat" : "54°03'N",
+    "lon" : "2°48'W"
+  }, {
+    "city" : "Lanzhou",
+    "lat" : "36°02'N",
+    "lon" : "103°48'E"
+  }, {
+    "city" : "Las Palmas de Gran Canaria",
+    "lat" : "28°09'N",
+    "lon" : "15°25'W"
+  }, {
+    "city" : "Las Vegas",
+    "lat" : "36°11'N",
+    "lon" : "115°08'W"
+  }, {
+    "city" : "Latakia",
+    "lat" : "35°31'N",
+    "lon" : "35°47'E"
+  }, {
+    "city" : "Launceston, Tasmania",
+    "lat" : "41°26'S",
+    "lon" : "147°08'E"
+  }, {
+    "city" : "Lausanne",
+    "lat" : "46°31'N",
+    "lon" : "6°38'E"
+  }, {
+    "city" : "Le Havre",
+    "lat" : "49°29'N",
+    "lon" : "0°06'E"
+  }, {
+    "city" : "Leeds",
+    "lat" : "53°48'N",
+    "lon" : "1°33'W"
+  }, {
+    "city" : "Leicester",
+    "lat" : "52°38'N",
+    "lon" : "1°08'W"
+  }, {
+    "city" : "Leiden",
+    "lat" : "52°10'N",
+    "lon" : "4°29'E"
+  }, {
+    "city" : "Leipzig",
+    "lat" : "51°20'N",
+    "lon" : "12°23'E"
+  }, {
+    "city" : "Lerwick",
+    "lat" : "60°15'N",
+    "lon" : "1°15'W"
+  }, {
+    "city" : "León",
+    "lat" : "21°07'N",
+    "lon" : "101°41'W"
+  }, {
+    "city" : "Lhasa",
+    "lat" : "29°39'N",
+    "lon" : "91°06'E"
+  }, {
+    "city" : "Liberia",
+    "lat" : "10°38'N",
+    "lon" : "85°26'W"
+  }, {
+    "city" : "Libreville",
+    "lat" : "0°23'N",
+    "lon" : "9°27'E"
+  }, {
+    "city" : "Lille",
+    "lat" : "50°38'N",
+    "lon" : "3°03'E"
+  }, {
+    "city" : "Lillehammer",
+    "lat" : "61°08'N",
+    "lon" : "10°26'E"
+  }, {
+    "city" : "Lilongwe",
+    "lat" : "13°59'S",
+    "lon" : "33°47'E"
+  }, {
+    "city" : "Lima",
+    "lat" : "12°03'S",
+    "lon" : "77°02'W"
+  }, {
+    "city" : "Limón",
+    "lat" : "9°59'N",
+    "lon" : "83°02'W"
+  }, {
+    "city" : "Lincoln",
+    "lat" : "40°49'N",
+    "lon" : "96°41'W"
+  }, {
+    "city" : "Linköping",
+    "lat" : "58°24'N",
+    "lon" : "15°37'E"
+  }, {
+    "city" : "Linz",
+    "lat" : "48°18'N",
+    "lon" : "14°17'E"
+  }, {
+    "city" : "Lisbon",
+    "lat" : "38°43'N",
+    "lon" : "9°08'W"
+  }, {
+    "city" : "Little Rock",
+    "lat" : "34°44'N",
+    "lon" : "92°20'W"
+  }, {
+    "city" : "Liverpool",
+    "lat" : "53°24'N",
+    "lon" : "2°59'W"
+  }, {
+    "city" : "Livingstone",
+    "lat" : "17°51'S",
+    "lon" : "25°52'E"
+  }, {
+    "city" : "Ljubljana",
+    "lat" : "46°03'N",
+    "lon" : "14°31'E"
+  }, {
+    "city" : "Lleida",
+    "lat" : "41°37'N",
+    "lon" : "0°38'E"
+  }, {
+    "city" : "Lobamba",
+    "lat" : "26°25'S",
+    "lon" : "31°10'E"
+  }, {
+    "city" : "Lomé",
+    "lat" : "6°08'N",
+    "lon" : "1°13'E"
+  }, {
+    "city" : "London",
+    "lat" : "42°59'N",
+    "lon" : "81°15'W"
+  }, {
+    "city" : "London",
+    "lat" : "51°30'N",
+    "lon" : "0°08'W"
+  }, {
+    "city" : "Longyearbyen",
+    "lat" : "78°13'N",
+    "lon" : "15°39'E"
+  }, {
+    "city" : "Los Alamos",
+    "lat" : "35°53'N",
+    "lon" : "106°18'W"
+  }, {
+    "city" : "Los Angeles",
+    "lat" : "34°03'N",
+    "lon" : "118°15'W"
+  }, {
+    "city" : "Louisville",
+    "lat" : "38°15'N",
+    "lon" : "85°46'W"
+  }, {
+    "city" : "Luanda",
+    "lat" : "8°50'S",
+    "lon" : "13°14'E"
+  }, {
+    "city" : "Lubumbashi",
+    "lat" : "11°40'S",
+    "lon" : "27°28'E"
+  }, {
+    "city" : "Lucknow",
+    "lat" : "26°51'N",
+    "lon" : "80°57'E"
+  }, {
+    "city" : "Ludhiana",
+    "lat" : "30°55'N",
+    "lon" : "75°51'E"
+  }, {
+    "city" : "Luleå",
+    "lat" : "65°35'N",
+    "lon" : "22°09'E"
+  }, {
+    "city" : "Lusaka",
+    "lat" : "15°25'S",
+    "lon" : "28°17'E"
+  }, {
+    "city" : "Luxembourg",
+    "lat" : "49°37'N",
+    "lon" : "6°07'E"
+  }, {
+    "city" : "Luxor",
+    "lat" : "25°41'N",
+    "lon" : "32°39'E"
+  }, {
+    "city" : "Lviv",
+    "lat" : "49°51'N",
+    "lon" : "24°01'E"
+  }, {
+    "city" : "Lyon",
+    "lat" : "45°46'N",
+    "lon" : "4°51'E"
+  }, {
+    "city" : "Maastricht",
+    "lat" : "50°51'N",
+    "lon" : "5°41'E"
+  }, {
+    "city" : "Macapá",
+    "lat" : "0°02'N",
+    "lon" : "51°04'W"
+  }, {
+    "city" : "Macau",
+    "lat" : "22°10'N",
+    "lon" : "113°33'E"
+  }, {
+    "city" : "Maceió",
+    "lat" : "9°40'S",
+    "lon" : "35°44'W"
+  }, {
+    "city" : "Madrid",
+    "lat" : "40°23'N",
+    "lon" : "3°43'W"
+  }, {
+    "city" : "Maebashi",
+    "lat" : "36°23'N",
+    "lon" : "139°04'E"
+  }, {
+    "city" : "Mafikeng",
+    "lat" : "25°51'S",
+    "lon" : "25°38'E"
+  }, {
+    "city" : "Magadan",
+    "lat" : "59°34'N",
+    "lon" : "150°48'E"
+  }, {
+    "city" : "Majuro",
+    "lat" : "7°04'N",
+    "lon" : "171°16'E"
+  }, {
+    "city" : "Makassar",
+    "lat" : "5°08'S",
+    "lon" : "119°25'E"
+  }, {
+    "city" : "Makati",
+    "lat" : "14°33'N",
+    "lon" : "121°02'E"
+  }, {
+    "city" : "Malabo",
+    "lat" : "3°45'N",
+    "lon" : "8°47'E"
+  }, {
+    "city" : "Malacca Town",
+    "lat" : "2°12'N",
+    "lon" : "102°15'E"
+  }, {
+    "city" : "Malang",
+    "lat" : "7°59'S",
+    "lon" : "112°37'E"
+  }, {
+    "city" : "Malmö",
+    "lat" : "55°35'N",
+    "lon" : "13°02'E"
+  }, {
+    "city" : "Malé",
+    "lat" : "4°11'N",
+    "lon" : "73°31'E"
+  }, {
+    "city" : "Mamoudzou",
+    "lat" : "12°47'S",
+    "lon" : "45°14'E"
+  }, {
+    "city" : "Managua",
+    "lat" : "12°08'N",
+    "lon" : "86°15'W"
+  }, {
+    "city" : "Manama",
+    "lat" : "26°13'N",
+    "lon" : "50°35'E"
+  }, {
+    "city" : "Manaus",
+    "lat" : "3°06'S",
+    "lon" : "60°01'W"
+  }, {
+    "city" : "Manchester",
+    "lat" : "53°28'N",
+    "lon" : "2°14'W"
+  }, {
+    "city" : "Mandurah",
+    "lat" : "32°32'S",
+    "lon" : "115°43'E"
+  }, {
+    "city" : "Manila",
+    "lat" : "14°35'N",
+    "lon" : "120°58'E"
+  }, {
+    "city" : "Manzini",
+    "lat" : "26°29'S",
+    "lon" : "31°22'E"
+  }, {
+    "city" : "Maputo",
+    "lat" : "25°58'S",
+    "lon" : "32°35'E"
+  }, {
+    "city" : "Mar del Plata",
+    "lat" : "38°00'S",
+    "lon" : "57°33'W"
+  }, {
+    "city" : "Maracaibo",
+    "lat" : "10°39'N",
+    "lon" : "71°38'W"
+  }, {
+    "city" : "Maracay",
+    "lat" : "10°15'N",
+    "lon" : "67°36'W"
+  }, {
+    "city" : "Marrakech",
+    "lat" : "31°38'N",
+    "lon" : "8°01'W"
+  }, {
+    "city" : "Marseille",
+    "lat" : "43°18'N",
+    "lon" : "5°22'E"
+  }, {
+    "city" : "Maseru",
+    "lat" : "29°19'S",
+    "lon" : "27°29'E"
+  }, {
+    "city" : "Mashhad",
+    "lat" : "36°18'N",
+    "lon" : "59°36'E"
+  }, {
+    "city" : "Maspalomas",
+    "lat" : "27°44'N",
+    "lon" : "15°34'W"
+  }, {
+    "city" : "Mata-Utu",
+    "lat" : "13°17'S",
+    "lon" : "176°11'W"
+  }, {
+    "city" : "Matsue",
+    "lat" : "35°28'N",
+    "lon" : "133°03'E"
+  }, {
+    "city" : "Matsuyama",
+    "lat" : "33°50'N",
+    "lon" : "132°46'E"
+  }, {
+    "city" : "Mbabane",
+    "lat" : "26°19'S",
+    "lon" : "31°08'E"
+  }, {
+    "city" : "Mbandaka",
+    "lat" : "0°03'N",
+    "lon" : "18°15'E"
+  }, {
+    "city" : "Mecca",
+    "lat" : "21°25'N",
+    "lon" : "39°49'E"
+  }, {
+    "city" : "Medan",
+    "lat" : "3°35'N",
+    "lon" : "98°40'E"
+  }, {
+    "city" : "Medellín",
+    "lat" : "6°14'N",
+    "lon" : "75°35'W"
+  }, {
+    "city" : "Medina",
+    "lat" : "24°28'N",
+    "lon" : "39°36'E"
+  }, {
+    "city" : "Melbourne",
+    "lat" : "37°49'S",
+    "lon" : "144°58'E"
+  }, {
+    "city" : "Melekeok",
+    "lat" : "7°29'N",
+    "lon" : "134°36'E"
+  }, {
+    "city" : "Melilla",
+    "lat" : "35°17'N",
+    "lon" : "2°56'W"
+  }, {
+    "city" : "Memphis",
+    "lat" : "35°07'N",
+    "lon" : "89°58'W"
+  }, {
+    "city" : "Mendoza",
+    "lat" : "32°53'S",
+    "lon" : "68°49'W"
+  }, {
+    "city" : "Mersin",
+    "lat" : "36°48'N",
+    "lon" : "34°38'E"
+  }, {
+    "city" : "Messina",
+    "lat" : "38°11'N",
+    "lon" : "15°33'E"
+  }, {
+    "city" : "Mexicali",
+    "lat" : "32°40'N",
+    "lon" : "115°28'W"
+  }, {
+    "city" : " Mexico City",
+    "lat" : "19°26'N",
+    "lon" : "99°08'W"
+  }, {
+    "city" : "Miami",
+    "lat" : "25°47'N",
+    "lon" : "80°13'W"
+  }, {
+    "city" : "Middlesbrough",
+    "lat" : "54°34'N",
+    "lon" : "1°14'W"
+  }, {
+    "city" : "Milan",
+    "lat" : "45°28'N",
+    "lon" : "9°11'E"
+  }, {
+    "city" : "Milwaukee",
+    "lat" : "43°03'N",
+    "lon" : "87°57'W"
+  }, {
+    "city" : "Minneapolis",
+    "lat" : "44°59'N",
+    "lon" : "93°16'W"
+  }, {
+    "city" : "Minsk",
+    "lat" : "53°54'N",
+    "lon" : "27°34'E"
+  }, {
+    "city" : "Miri",
+    "lat" : "4°24'N",
+    "lon" : "114°00'E"
+  }, {
+    "city" : "Mito",
+    "lat" : "36°22'N",
+    "lon" : "140°28'E"
+  }, {
+    "city" : "Miyazaki",
+    "lat" : "31°55'N",
+    "lon" : "131°25'E"
+  }, {
+    "city" : "Mobile",
+    "lat" : "30°42'N",
+    "lon" : "88°03'W"
+  }, {
+    "city" : "Mogadishu",
+    "lat" : "2°02'N",
+    "lon" : "45°21'E"
+  }, {
+    "city" : "Mombasa",
+    "lat" : "4°03'S",
+    "lon" : "39°40'E"
+  }, {
+    "city" : "Monaco",
+    "lat" : "43°44'N",
+    "lon" : "7°25'E"
+  }, {
+    "city" : "Moncton",
+    "lat" : "46°08'N",
+    "lon" : "64°46'W"
+  }, {
+    "city" : "Monrovia",
+    "lat" : "6°19'N",
+    "lon" : "10°48'W"
+  }, {
+    "city" : "Monterrey",
+    "lat" : "25°40'N",
+    "lon" : "100°18'W"
+  }, {
+    "city" : "Montevideo",
+    "lat" : "34°53'S",
+    "lon" : "56°11'W"
+  }, {
+    "city" : "Montpelier",
+    "lat" : "44°15'N",
+    "lon" : "72°34'W"
+  }, {
+    "city" : "Montreal",
+    "lat" : "45°30'N",
+    "lon" : "73°34'W"
+  }, {
+    "city" : "Morioka",
+    "lat" : "39°41'N",
+    "lon" : "141°09'E"
+  }, {
+    "city" : "Moroni",
+    "lat" : "11°45'S",
+    "lon" : "43°12'E"
+  }, {
+    "city" : "Moscow",
+    "lat" : "46°44'N",
+    "lon" : "117°00'W"
+  }, {
+    "city" : "Moscow",
+    "lat" : "55°45'N",
+    "lon" : "37°37'E"
+  }, {
+    "city" : "Mosul",
+    "lat" : "36°20'N",
+    "lon" : "43°08'E"
+  }, {
+    "city" : "Moundou",
+    "lat" : "8°34'N",
+    "lon" : "16°05'E"
+  }, {
+    "city" : "Mugla",
+    "lat" : "37°13'N",
+    "lon" : "28°22'E"
+  }, {
+    "city" : "Multan",
+    "lat" : "30°12'N",
+    "lon" : "71°28'E"
+  }, {
+    "city" : "Mumbai",
+    "lat" : "18°59'N",
+    "lon" : "72°50'E"
+  }, {
+    "city" : "Munich",
+    "lat" : "48°08'N",
+    "lon" : "11°34'E"
+  }, {
+    "city" : "Murmansk",
+    "lat" : "68°58'N",
+    "lon" : "33°05'E"
+  }, {
+    "city" : "Muscat",
+    "lat" : "23°37'N",
+    "lon" : "58°36'E"
+  }, {
+    "city" : "Mutare",
+    "lat" : "18°58'S",
+    "lon" : "32°38'E"
+  }, {
+    "city" : "Mwanza",
+    "lat" : "2°31'S",
+    "lon" : "32°54'E"
+  }, {
+    "city" : "Málaga",
+    "lat" : "36°43'N",
+    "lon" : "4°25'W"
+  }, {
+    "city" : "Mérida",
+    "lat" : "8°35'N",
+    "lon" : "71°08'W"
+  }, {
+    "city" : "Mérida",
+    "lat" : "20°58'N",
+    "lon" : "89°37'W"
+  }, {
+    "city" : "Münster",
+    "lat" : "51°57'N",
+    "lon" : "7°37'E"
+  }, {
+    "city" : "N'Djamena",
+    "lat" : "12°07'N",
+    "lon" : "15°03'E"
+  }, {
+    "city" : "Nagano",
+    "lat" : "36°38'N",
+    "lon" : "138°11'E"
+  }, {
+    "city" : "Nagasaki",
+    "lat" : "32°47'N",
+    "lon" : "129°52'E"
+  }, {
+    "city" : "Nagoya",
+    "lat" : "35°11'N",
+    "lon" : "136°54'E"
+  }, {
+    "city" : "Nagpur",
+    "lat" : "21°08'N",
+    "lon" : "79°05'E"
+  }, {
+    "city" : "Naha",
+    "lat" : "26°13'N",
+    "lon" : "127°41'E"
+  }, {
+    "city" : "Nairobi",
+    "lat" : "1°17'S",
+    "lon" : "36°49'E"
+  }, {
+    "city" : "Najaf",
+    "lat" : "32°00'N",
+    "lon" : "44°22'E"
+  }, {
+    "city" : "Nakhon Ratchasima",
+    "lat" : "14°59'N",
+    "lon" : "102°06'E"
+  }, {
+    "city" : "Namangan",
+    "lat" : "41°00'N",
+    "lon" : "71°40'E"
+  }, {
+    "city" : "Nanjing",
+    "lat" : "32°03'N",
+    "lon" : "118°46'E"
+  }, {
+    "city" : "Nanning",
+    "lat" : "22°49'N",
+    "lon" : "108°19'E"
+  }, {
+    "city" : "Nantes",
+    "lat" : "47°13'N",
+    "lon" : "1°33'W"
+  }, {
+    "city" : "Naples",
+    "lat" : "40°51'N",
+    "lon" : "14°16'E"
+  }, {
+    "city" : "Nara",
+    "lat" : "34°41'N",
+    "lon" : "135°48'E"
+  }, {
+    "city" : "Narvik",
+    "lat" : "68°25'N",
+    "lon" : "17°34'E"
+  }, {
+    "city" : "Nashville",
+    "lat" : "36°10'N",
+    "lon" : "86°47'W"
+  }, {
+    "city" : "Nassau",
+    "lat" : "25°04'N",
+    "lon" : "77°20'W"
+  }, {
+    "city" : "Natal",
+    "lat" : "5°47'S",
+    "lon" : "35°12'W"
+  }, {
+    "city" : "Naypyidaw",
+    "lat" : "19°45'N",
+    "lon" : "96°06'E"
+  }, {
+    "city" : "Ndola",
+    "lat" : "12°58'S",
+    "lon" : "28°38'E"
+  }, {
+    "city" : "Nelson",
+    "lat" : "41°16'S",
+    "lon" : "173°17'E"
+  }, {
+    "city" : "Nelspruit",
+    "lat" : "25°28'S",
+    "lon" : "30°59'E"
+  }, {
+    "city" : "Nemuro",
+    "lat" : "43°20'N",
+    "lon" : "145°35'E"
+  }, {
+    "city" : "Neuquén",
+    "lat" : "38°57'S",
+    "lon" : "68°03'W"
+  }, {
+    "city" : "New Delhi",
+    "lat" : "28°37'N",
+    "lon" : "77°13'E"
+  }, {
+    "city" : "New Glasgow",
+    "lat" : "45°36'N",
+    "lon" : "62°39'W"
+  }, {
+    "city" : "New Orleans",
+    "lat" : "29°58'N",
+    "lon" : "90°03'W"
+  }, {
+    "city" : "New York City",
+    "lat" : "40°40'N",
+    "lon" : "73°56'W"
+  }, {
+    "city" : "Newcastle",
+    "lat" : "32°55'S",
+    "lon" : "151°45'E"
+  }, {
+    "city" : "Newcastle upon Tyne",
+    "lat" : "54°58'N",
+    "lon" : "1°37'W"
+  }, {
+    "city" : "Niamey",
+    "lat" : "13°31'N",
+    "lon" : "2°06'E"
+  }, {
+    "city" : "Nice",
+    "lat" : "43°42'N",
+    "lon" : "7°16'E"
+  }, {
+    "city" : "Nicosia",
+    "lat" : "35°10'N",
+    "lon" : "33°22'E"
+  }, {
+    "city" : "Niigata",
+    "lat" : "37°55'N",
+    "lon" : "139°02'E"
+  }, {
+    "city" : "Nizhny Novgorod",
+    "lat" : "56°20'N",
+    "lon" : "44°00'E"
+  }, {
+    "city" : "Nome",
+    "lat" : "64°30'N",
+    "lon" : "165°23'W"
+  }, {
+    "city" : "Nord",
+    "lat" : "81°36'N",
+    "lon" : "16°40'W"
+  }, {
+    "city" : "Norilsk",
+    "lat" : "69°20'N",
+    "lon" : "88°13'E"
+  }, {
+    "city" : "Norrköping",
+    "lat" : "58°36'N",
+    "lon" : "16°12'E"
+  }, {
+    "city" : "North Bay",
+    "lat" : "46°18'N",
+    "lon" : "79°27'W"
+  }, {
+    "city" : "Norwich",
+    "lat" : "52°38'N",
+    "lon" : "1°18'E"
+  }, {
+    "city" : "Nottingham",
+    "lat" : "52°57'N",
+    "lon" : "1°08'W"
+  }, {
+    "city" : "Nouakchott",
+    "lat" : "18°06'N",
+    "lon" : "15°57'W"
+  }, {
+    "city" : "Nouméa",
+    "lat" : "22°17'S",
+    "lon" : "166°27'E"
+  }, {
+    "city" : "Novi Sad",
+    "lat" : "45°15'N",
+    "lon" : "19°51'E"
+  }, {
+    "city" : "Novosibirsk",
+    "lat" : "55°01'N",
+    "lon" : "82°56'E"
+  }, {
+    "city" : "Nukulaelae",
+    "lat" : "9°23'S",
+    "lon" : "179°51'E"
+  }, {
+    "city" : "Nukus",
+    "lat" : "42°28'N",
+    "lon" : "59°36'E"
+  }, {
+    "city" : "Nukuʻalofa",
+    "lat" : "21°08'S",
+    "lon" : "175°12'W"
+  }, {
+    "city" : "Nuorgam",
+    "lat" : "70°05'N",
+    "lon" : "27°53'E"
+  }, {
+    "city" : "Nuremberg",
+    "lat" : "49°27'N",
+    "lon" : "11°05'E"
+  }, {
+    "city" : "Nuuk (Godthåb)",
+    "lat" : "64°11'N",
+    "lon" : "51°44'W"
+  }, {
+    "city" : "Ny-Ålesund",
+    "lat" : "78°55'N",
+    "lon" : "11°56'E"
+  }, {
+    "city" : "Nzérékoré",
+    "lat" : "7°45'N",
+    "lon" : "8°49'W"
+  }, {
+    "city" : "Oakland",
+    "lat" : "37°48'N",
+    "lon" : "122°16'W"
+  }, {
+    "city" : "Obihiro",
+    "lat" : "42°55'N",
+    "lon" : "143°12'E"
+  }, {
+    "city" : "Odense",
+    "lat" : "55°24'N",
+    "lon" : "10°23'E"
+  }, {
+    "city" : "Odessa",
+    "lat" : "46°28'N",
+    "lon" : "30°44'E"
+  }, {
+    "city" : "Okayama",
+    "lat" : "34°39'N",
+    "lon" : "133°55'E"
+  }, {
+    "city" : "Oklahoma City",
+    "lat" : "35°29'N",
+    "lon" : "97°32'W"
+  }, {
+    "city" : "Omdurman",
+    "lat" : "15°39'N",
+    "lon" : "32°29'E"
+  }, {
+    "city" : "Omsk",
+    "lat" : "54°59'N",
+    "lon" : "73°22'E"
+  }, {
+    "city" : "Oranjestad",
+    "lat" : "12°31'N",
+    "lon" : "70°02'W"
+  }, {
+    "city" : "Orlando",
+    "lat" : "28°25'N",
+    "lon" : "81°18'W"
+  }, {
+    "city" : "Orléans",
+    "lat" : "47°54'N",
+    "lon" : "1°55'E"
+  }, {
+    "city" : "Osaka",
+    "lat" : "34°42'N",
+    "lon" : "135°30'E"
+  }, {
+    "city" : "Oslo",
+    "lat" : "59°57'N",
+    "lon" : "10°45'E"
+  }, {
+    "city" : "Ottawa",
+    "lat" : "45°25'N",
+    "lon" : "75°41'W"
+  }, {
+    "city" : "Ouagadougou",
+    "lat" : "12°21'N",
+    "lon" : "1°32'W"
+  }, {
+    "city" : "Oulu",
+    "lat" : "65°01'N",
+    "lon" : "25°28'E"
+  }, {
+    "city" : "Oviedo",
+    "lat" : "43°21'N",
+    "lon" : "5°50'W"
+  }, {
+    "city" : "Oxford",
+    "lat" : "51°45'N",
+    "lon" : "1°15'W"
+  }, {
+    "city" : "Padang",
+    "lat" : "0°57'S",
+    "lon" : "100°21'E"
+  }, {
+    "city" : "Pago Pago",
+    "lat" : "14°17'S",
+    "lon" : "170°42'W"
+  }, {
+    "city" : "Palembang",
+    "lat" : "2°59'S",
+    "lon" : "104°45'E"
+  }, {
+    "city" : "Palermo",
+    "lat" : "38°07'N",
+    "lon" : "13°22'E"
+  }, {
+    "city" : "Palikir",
+    "lat" : "6°55'N",
+    "lon" : "158°10'E"
+  }, {
+    "city" : "Palma",
+    "lat" : "39°34'N",
+    "lon" : "2°39'E"
+  }, {
+    "city" : "Palmas",
+    "lat" : "10°11'S",
+    "lon" : "48°20'W"
+  }, {
+    "city" : "Panama City",
+    "lat" : "8°59'N",
+    "lon" : "79°31'W"
+  }, {
+    "city" : "Papeete",
+    "lat" : "17°32'S",
+    "lon" : "149°34'W"
+  }, {
+    "city" : "Paramaribo",
+    "lat" : "5°52'N",
+    "lon" : "55°10'W"
+  }, {
+    "city" : "Paris",
+    "lat" : "48°51'N",
+    "lon" : "2°21'E"
+  }, {
+    "city" : "Patna",
+    "lat" : "25°37'N",
+    "lon" : "85°09'E"
+  }, {
+    "city" : "Pattaya",
+    "lat" : "12°56'N",
+    "lon" : "100°53'E"
+  }, {
+    "city" : "Pekanbaru",
+    "lat" : "0°32'N",
+    "lon" : "101°27'E"
+  }, {
+    "city" : "Pelotas",
+    "lat" : "31°46'S",
+    "lon" : "52°21'W"
+  }, {
+    "city" : "Perm",
+    "lat" : "58°00'N",
+    "lon" : "56°19'E"
+  }, {
+    "city" : "Perth",
+    "lat" : "31°57'S",
+    "lon" : "115°52'E"
+  }, {
+    "city" : "Peshawar",
+    "lat" : "34°01'N",
+    "lon" : "71°35'E"
+  }, {
+    "city" : "Peterborough",
+    "lat" : "52°35'N",
+    "lon" : "0°15'W"
+  }, {
+    "city" : "Petrolina",
+    "lat" : "9°24'S",
+    "lon" : "40°30'W"
+  }, {
+    "city" : "Petropavl",
+    "lat" : "54°53'N",
+    "lon" : "69°10'E"
+  }, {
+    "city" : "Petropavlovsk-Kamchatsky",
+    "lat" : "53°01'N",
+    "lon" : "158°39'E"
+  }, {
+    "city" : "Philadelphia",
+    "lat" : "39°57'N",
+    "lon" : "75°10'W"
+  }, {
+    "city" : "Phnom Penh",
+    "lat" : "11°33'N",
+    "lon" : "104°55'E"
+  }, {
+    "city" : "Phoenix",
+    "lat" : "33°27'N",
+    "lon" : "112°04'W"
+  }, {
+    "city" : "Phuket",
+    "lat" : "7°53'N",
+    "lon" : "98°24'E"
+  }, {
+    "city" : "Pierre",
+    "lat" : "44°22'N",
+    "lon" : "100°20'W"
+  }, {
+    "city" : "Pietermaritzburg",
+    "lat" : "29°37'S",
+    "lon" : "30°23'E"
+  }, {
+    "city" : "Piteå",
+    "lat" : "65°20'N",
+    "lon" : "21°30'E"
+  }, {
+    "city" : "Pittsburgh",
+    "lat" : "40°27'N",
+    "lon" : "80°00'W"
+  }, {
+    "city" : "Plymouth",
+    "lat" : "50°22'N",
+    "lon" : "4°09'W"
+  }, {
+    "city" : "Podgorica",
+    "lat" : "42°26'N",
+    "lon" : "19°16'E"
+  }, {
+    "city" : "Polokwane",
+    "lat" : "23°54'S",
+    "lon" : "29°27'E"
+  }, {
+    "city" : "Ponta Delgada",
+    "lat" : "37°49'N",
+    "lon" : "25°45'W"
+  }, {
+    "city" : "Pontianak",
+    "lat" : "0°01'S",
+    "lon" : "109°20'E"
+  }, {
+    "city" : "Port Blair",
+    "lat" : "11°40'N",
+    "lon" : "92°46'E"
+  }, {
+    "city" : "Port Elizabeth",
+    "lat" : "33°57'S",
+    "lon" : "25°36'E"
+  }, {
+    "city" : "Port Harcourt",
+    "lat" : "4°45'N",
+    "lon" : "7°00'E"
+  }, {
+    "city" : "Port Hedland",
+    "lat" : "20°19'S",
+    "lon" : "118°36'E"
+  }, {
+    "city" : "Port Louis",
+    "lat" : "20°10'S",
+    "lon" : "57°30'E"
+  }, {
+    "city" : "Port Moresby",
+    "lat" : "9°31'S",
+    "lon" : "147°13'E"
+  }, {
+    "city" : "Port of Spain",
+    "lat" : "10°40'N",
+    "lon" : "61°31'W"
+  }, {
+    "city" : "Port Said",
+    "lat" : "31°15'N",
+    "lon" : "32°17'E"
+  }, {
+    "city" : "Port Vila",
+    "lat" : "17°45'S",
+    "lon" : "168°18'E"
+  }, {
+    "city" : "Port-au-Prince",
+    "lat" : "18°32'N",
+    "lon" : "72°20'W"
+  }, {
+    "city" : "Portland",
+    "lat" : "45°31'N",
+    "lon" : "122°41'W"
+  }, {
+    "city" : "Porto",
+    "lat" : "41°10'N",
+    "lon" : "8°37'W"
+  }, {
+    "city" : "Porto Velho",
+    "lat" : "8°46'S",
+    "lon" : "63°54'W"
+  }, {
+    "city" : "Porto-Novo",
+    "lat" : "6°30'N",
+    "lon" : "2°36'E"
+  }, {
+    "city" : "Portsmouth",
+    "lat" : "50°49'N",
+    "lon" : "1°05'W"
+  }, {
+    "city" : "Poznań",
+    "lat" : "52°24'N",
+    "lon" : "16°55'E"
+  }, {
+    "city" : "Poços de Caldas",
+    "lat" : "21°47'S",
+    "lon" : "46°34'W"
+  }, {
+    "city" : "Prague",
+    "lat" : "50°05'N",
+    "lon" : "14°25'E"
+  }, {
+    "city" : "Praia",
+    "lat" : "14°55'N",
+    "lon" : "23°31'W"
+  }, {
+    "city" : "Pretoria",
+    "lat" : "25°45'S",
+    "lon" : "28°11'E"
+  }, {
+    "city" : "Prince George",
+    "lat" : "53°55'N",
+    "lon" : "122°44'W"
+  }, {
+    "city" : "Pristina",
+    "lat" : "42°40'N",
+    "lon" : "21°10'E"
+  }, {
+    "city" : "Providence",
+    "lat" : "41°49'N",
+    "lon" : "71°25'W"
+  }, {
+    "city" : "Pudasjärvi",
+    "lat" : "65°22'N",
+    "lon" : "27°00'E"
+  }, {
+    "city" : "Puebla",
+    "lat" : "19°03'N",
+    "lon" : "98°13'W"
+  }, {
+    "city" : "Puerto Aisén",
+    "lat" : "45°24'S",
+    "lon" : "72°41'W"
+  }, {
+    "city" : "Puerto Ayacucho",
+    "lat" : "5°40'N",
+    "lon" : "67°38'W"
+  }, {
+    "city" : "Puerto Montt",
+    "lat" : "41°28'S",
+    "lon" : "72°56'W"
+  }, {
+    "city" : "Puerto Toro",
+    "lat" : "55°05'S",
+    "lon" : "67°05'W"
+  }, {
+    "city" : "Puerto Vallarta",
+    "lat" : "20°40'N",
+    "lon" : "105°16'W"
+  }, {
+    "city" : "Puerto Williams",
+    "lat" : "54°56'S",
+    "lon" : "67°37'W"
+  }, {
+    "city" : "Pune",
+    "lat" : "18°31'N",
+    "lon" : "73°51'E"
+  }, {
+    "city" : "Punta Arenas",
+    "lat" : "53°10'S",
+    "lon" : "70°56'W"
+  }, {
+    "city" : "Puntarenas",
+    "lat" : "9°58'N",
+    "lon" : "84°50'W"
+  }, {
+    "city" : "Pyongyang",
+    "lat" : "39°01'N",
+    "lon" : "125°44'E"
+  }, {
+    "city" : "Qaanaaq",
+    "lat" : "77°28'N",
+    "lon" : "69°14'W"
+  }, {
+    "city" : "Qaqortoq",
+    "lat" : "60°43'N",
+    "lon" : "46°02'W"
+  }, {
+    "city" : "Qingdao",
+    "lat" : "36°04'N",
+    "lon" : "120°23'E"
+  }, {
+    "city" : "Qiqihar",
+    "lat" : "47°26'N",
+    "lon" : "123°27'E"
+  }, {
+    "city" : "Quebec City",
+    "lat" : "46°49'N",
+    "lon" : "71°13'W"
+  }, {
+    "city" : "Querétaro",
+    "lat" : "20°35'N",
+    "lon" : "100°24'W"
+  }, {
+    "city" : "Quetzaltenango",
+    "lat" : "14°50'N",
+    "lon" : "91°31'W"
+  }, {
+    "city" : "Quezon City",
+    "lat" : "14°38'N",
+    "lon" : "121°02'E"
+  }, {
+    "city" : "Quito",
+    "lat" : "0°15'S",
+    "lon" : "78°35'W"
+  }, {
+    "city" : "Rabat",
+    "lat" : "34°02'N",
+    "lon" : "6°50'W"
+  }, {
+    "city" : "Rabi Island",
+    "lat" : "16°30'S",
+    "lon" : "180°00'W"
+  }, {
+    "city" : "Raipur",
+    "lat" : "21°15'N",
+    "lon" : "81°38'E"
+  }, {
+    "city" : "Raleigh",
+    "lat" : "35°49'N",
+    "lon" : "78°39'W"
+  }, {
+    "city" : "Ravenna",
+    "lat" : "44°25'N",
+    "lon" : "12°12'E"
+  }, {
+    "city" : "Rawalpindi",
+    "lat" : "33°36'N",
+    "lon" : "73°02'E"
+  }, {
+    "city" : "Recife",
+    "lat" : "8°03'S",
+    "lon" : "34°54'W"
+  }, {
+    "city" : "Regina",
+    "lat" : "50°27'N",
+    "lon" : "104°36'W"
+  }, {
+    "city" : "Reno",
+    "lat" : "39°32'N",
+    "lon" : "119°49'W"
+  }, {
+    "city" : "Reykjavík",
+    "lat" : "64°08'N",
+    "lon" : "21°56'W"
+  }, {
+    "city" : "Ribeirão Preto",
+    "lat" : "21°11'S",
+    "lon" : "47°48'W"
+  }, {
+    "city" : "Riga",
+    "lat" : "56°57'N",
+    "lon" : "24°06'E"
+  }, {
+    "city" : "Rio Branco",
+    "lat" : "9°58'S",
+    "lon" : "67°49'W"
+  }, {
+    "city" : "Rio de Janeiro",
+    "lat" : "22°55'S",
+    "lon" : "43°12'W"
+  }, {
+    "city" : "Riverside",
+    "lat" : "33°57'N",
+    "lon" : "117°24'W"
+  }, {
+    "city" : "Riyadh",
+    "lat" : "24°38'N",
+    "lon" : "46°43'E"
+  }, {
+    "city" : "Road Town",
+    "lat" : "18°26'N",
+    "lon" : "64°37'W"
+  }, {
+    "city" : "Rochester",
+    "lat" : "43°10'N",
+    "lon" : "77°37'W"
+  }, {
+    "city" : "Rockhampton",
+    "lat" : "23°23'S",
+    "lon" : "150°31'E"
+  }, {
+    "city" : "Rome",
+    "lat" : "41°54'N",
+    "lon" : "12°30'E"
+  }, {
+    "city" : "Rosario",
+    "lat" : "32°57'S",
+    "lon" : "60°40'W"
+  }, {
+    "city" : "Roseau",
+    "lat" : "15°18'N",
+    "lon" : "61°23'W"
+  }, {
+    "city" : "Rostock",
+    "lat" : "54°05'N",
+    "lon" : "12°08'E"
+  }, {
+    "city" : "Rostov-on-Don",
+    "lat" : "47°14'N",
+    "lon" : "39°42'E"
+  }, {
+    "city" : "Rothera",
+    "lat" : "67°34'S",
+    "lon" : "68°08'W"
+  }, {
+    "city" : "Rotterdam",
+    "lat" : "51°56'N",
+    "lon" : "4°29'E"
+  }, {
+    "city" : "Rouen",
+    "lat" : "49°26'N",
+    "lon" : "1°06'E"
+  }, {
+    "city" : "Rovaniemi",
+    "lat" : "66°30'N",
+    "lon" : "25°44'E"
+  }, {
+    "city" : "Río Gallegos",
+    "lat" : "51°38'S",
+    "lon" : "69°13'W"
+  }, {
+    "city" : "Sabha",
+    "lat" : "27°02'N",
+    "lon" : "14°26'E"
+  }, {
+    "city" : "Sacramento",
+    "lat" : "38°33'N",
+    "lon" : "121°28'W"
+  }, {
+    "city" : "Saga",
+    "lat" : "33°16'N",
+    "lon" : "130°18'E"
+  }, {
+    "city" : "Saguenay",
+    "lat" : "48°25'N",
+    "lon" : "71°04'W"
+  }, {
+    "city" : "Saint John",
+    "lat" : "45°17'N",
+    "lon" : "66°05'W"
+  }, {
+    "city" : "Saint Petersburg",
+    "lat" : "59°57'N",
+    "lon" : "30°18'E"
+  }, {
+    "city" : "Saint-Denis",
+    "lat" : "20°53'S",
+    "lon" : "55°27'E"
+  }, {
+    "city" : "Saint-Pierre",
+    "lat" : "46°47'N",
+    "lon" : "56°11'W"
+  }, {
+    "city" : "Saipan",
+    "lat" : "15°11'N",
+    "lon" : "145°45'E"
+  }, {
+    "city" : "Salalah",
+    "lat" : "17°01'N",
+    "lon" : "54°05'E"
+  }, {
+    "city" : "Salt Lake City",
+    "lat" : "40°45'N",
+    "lon" : "111°53'W"
+  }, {
+    "city" : "Salta",
+    "lat" : "24°47'S",
+    "lon" : "65°25'W"
+  }, {
+    "city" : "Salvador",
+    "lat" : "12°58'S",
+    "lon" : "38°29'W"
+  }, {
+    "city" : "Salzburg",
+    "lat" : "47°48'N",
+    "lon" : "13°02'E"
+  }, {
+    "city" : "Samara",
+    "lat" : "53°12'N",
+    "lon" : "50°08'E"
+  }, {
+    "city" : "San Antonio",
+    "lat" : "29°25'N",
+    "lon" : "98°30'W"
+  }, {
+    "city" : "San Carlos de Bariloche",
+    "lat" : "41°09'S",
+    "lon" : "71°18'W"
+  }, {
+    "city" : "San Cristóbal",
+    "lat" : "7°45'N",
+    "lon" : "72°13'W"
+  }, {
+    "city" : "San Diego",
+    "lat" : "32°43'N",
+    "lon" : "117°10'W"
+  }, {
+    "city" : "San Fernando",
+    "lat" : "10°17'N",
+    "lon" : "61°28'W"
+  }, {
+    "city" : "San Francisco",
+    "lat" : "37°47'N",
+    "lon" : "122°25'W"
+  }, {
+    "city" : "San Jose",
+    "lat" : "37°20'N",
+    "lon" : "121°53'W"
+  }, {
+    "city" : "San José",
+    "lat" : "9°56'N",
+    "lon" : "84°05'W"
+  }, {
+    "city" : "San Juan",
+    "lat" : "18°27'N",
+    "lon" : "66°04'W"
+  }, {
+    "city" : "San Luis Potosí",
+    "lat" : "22°09'N",
+    "lon" : "100°51'W"
+  }, {
+    "city" : "San Marino",
+    "lat" : "43°56'N",
+    "lon" : "12°27'E"
+  }, {
+    "city" : "San Miguel de Tucumán",
+    "lat" : "26°49'S",
+    "lon" : "65°13'W"
+  }, {
+    "city" : "San Salvador",
+    "lat" : "13°41'N",
+    "lon" : "89°11'W"
+  }, {
+    "city" : "San Sebastián",
+    "lat" : "43°19'N",
+    "lon" : "2°00'W"
+  }, {
+    "city" : "Sana'a",
+    "lat" : "15°21'N",
+    "lon" : "44°12'E"
+  }, {
+    "city" : "Santa Barbara",
+    "lat" : "34°26'N",
+    "lon" : "119°43'W"
+  }, {
+    "city" : "Santa Cruz de la Sierra",
+    "lat" : "17°48'S",
+    "lon" : "63°10'W"
+  }, {
+    "city" : "Santa Cruz de Tenerife",
+    "lat" : "28°28'N",
+    "lon" : "16°15'W"
+  }, {
+    "city" : "Santa Fe",
+    "lat" : "31°38'S",
+    "lon" : "60°42'W"
+  }, {
+    "city" : "Santa Fe",
+    "lat" : "35°40'N",
+    "lon" : "105°58'W"
+  }, {
+    "city" : "Santiago",
+    "lat" : "33°27'S",
+    "lon" : "70°40'W"
+  }, {
+    "city" : "Santiago de Cali",
+    "lat" : "3°25'N",
+    "lon" : "76°31'W"
+  }, {
+    "city" : "Santiago de Compostela",
+    "lat" : "42°53'N",
+    "lon" : "8°32'W"
+  }, {
+    "city" : "Santiago de Cuba",
+    "lat" : "20°01'N",
+    "lon" : "75°49'W"
+  }, {
+    "city" : "Santo Domingo",
+    "lat" : "18°28'N",
+    "lon" : "69°57'W"
+  }, {
+    "city" : "Sapporo",
+    "lat" : "43°04'N",
+    "lon" : "141°21'E"
+  }, {
+    "city" : "Sarajevo",
+    "lat" : "43°51'N",
+    "lon" : "18°21'E"
+  }, {
+    "city" : "Saratov",
+    "lat" : "51°32'N",
+    "lon" : "46°01'E"
+  }, {
+    "city" : "Sarpsborg",
+    "lat" : "59°17'N",
+    "lon" : "11°12'E"
+  }, {
+    "city" : "Saskatoon",
+    "lat" : "52°08'N",
+    "lon" : "106°41'W"
+  }, {
+    "city" : "Sault Ste. Marie",
+    "lat" : "46°32'N",
+    "lon" : "84°21'W"
+  }, {
+    "city" : "Seattle",
+    "lat" : "47°37'N",
+    "lon" : "122°20'W"
+  }, {
+    "city" : "Sekondi-Takoradi",
+    "lat" : "4°55'N",
+    "lon" : "1°46'W"
+  }, {
+    "city" : "Semarang",
+    "lat" : "6°58'S",
+    "lon" : "110°25'E"
+  }, {
+    "city" : "Sendai",
+    "lat" : "38°16'N",
+    "lon" : "140°52'E"
+  }, {
+    "city" : "Seoul",
+    "lat" : "37°34'N",
+    "lon" : "126°59'E"
+  }, {
+    "city" : "Serekunda",
+    "lat" : "13°26'N",
+    "lon" : "16°40'W"
+  }, {
+    "city" : "Sevilla",
+    "lat" : "37°23'N",
+    "lon" : "5°59'W"
+  }, {
+    "city" : "Sfax",
+    "lat" : "34°44'N",
+    "lon" : "10°46'E"
+  }, {
+    "city" : "Shanghai",
+    "lat" : "31°12'N",
+    "lon" : "121°30'E"
+  }, {
+    "city" : "Sheffield",
+    "lat" : "53°23'N",
+    "lon" : "1°28'W"
+  }, {
+    "city" : "Shenyang",
+    "lat" : "41°48'N",
+    "lon" : "123°24'E"
+  }, {
+    "city" : "Shenzhen",
+    "lat" : "22°33'N",
+    "lon" : "114°06'E"
+  }, {
+    "city" : "Shigatse",
+    "lat" : "29°16'N",
+    "lon" : "88°53'E"
+  }, {
+    "city" : "Shijiazhuang",
+    "lat" : "38°03'N",
+    "lon" : "114°30'E"
+  }, {
+    "city" : "Shillong",
+    "lat" : "25°34'N",
+    "lon" : "91°53'E"
+  }, {
+    "city" : "Shimla",
+    "lat" : "31°06'N",
+    "lon" : "77°10'E"
+  }, {
+    "city" : "Shizuoka",
+    "lat" : "34°59'N",
+    "lon" : "138°23'E"
+  }, {
+    "city" : "Shreveport",
+    "lat" : "32°28'N",
+    "lon" : "93°42'W"
+  }, {
+    "city" : "Siem Reap",
+    "lat" : "13°22'N",
+    "lon" : "103°52'E"
+  }, {
+    "city" : "Siliguri",
+    "lat" : "26°43'N",
+    "lon" : "88°26'E"
+  }, {
+    "city" : "Simferopol",
+    "lat" : "44°57'N",
+    "lon" : "34°06'E"
+  }, {
+    "city" : "Singapore",
+    "lat" : "1°17'N",
+    "lon" : "103°50'E"
+  }, {
+    "city" : "Sinop",
+    "lat" : "11°51'S",
+    "lon" : "55°39'W"
+  }, {
+    "city" : "Sioux Falls",
+    "lat" : "43°32'N",
+    "lon" : "96°43'W"
+  }, {
+    "city" : "Sitka",
+    "lat" : "57°03'N",
+    "lon" : "135°20'W"
+  }, {
+    "city" : "Skellefteå",
+    "lat" : "64°45'N",
+    "lon" : "20°57'E"
+  }, {
+    "city" : "Skopje",
+    "lat" : "42°00'N",
+    "lon" : "21°26'E"
+  }, {
+    "city" : "Sobral",
+    "lat" : "3°40'S",
+    "lon" : "40°14'W"
+  }, {
+    "city" : "Sochi",
+    "lat" : "43°35'N",
+    "lon" : "39°43'E"
+  }, {
+    "city" : "Sofia",
+    "lat" : "42°42'N",
+    "lon" : "23°20'E"
+  }, {
+    "city" : "Son My",
+    "lat" : "15°11'N",
+    "lon" : "108°53'E"
+  }, {
+    "city" : "South Tarawa",
+    "lat" : "1°26'N",
+    "lon" : "173°00'E"
+  }, {
+    "city" : "Southampton",
+    "lat" : "50°54'N",
+    "lon" : "1°24'W"
+  }, {
+    "city" : "Split",
+    "lat" : "43°30'N",
+    "lon" : "16°26'E"
+  }, {
+    "city" : "Springfield",
+    "lat" : "37°12'N",
+    "lon" : "93°17'W"
+  }, {
+    "city" : "Sri Jayawardenapura-Kotte",
+    "lat" : "6°55'N",
+    "lon" : "79°53'E"
+  }, {
+    "city" : "Srinagar",
+    "lat" : "34°05'N",
+    "lon" : "74°47'E"
+  }, {
+    "city" : "St. George's",
+    "lat" : "12°03'N",
+    "lon" : "61°45'W"
+  }, {
+    "city" : "St. John's",
+    "lat" : "17°07'N",
+    "lon" : "61°51'W"
+  }, {
+    "city" : "St. John's",
+    "lat" : "47°34'N",
+    "lon" : "52°42'W"
+  }, {
+    "city" : "St. Louis",
+    "lat" : "38°38'N",
+    "lon" : "90°12'W"
+  }, {
+    "city" : "Stanley",
+    "lat" : "51°42'S",
+    "lon" : "57°52'W"
+  }, {
+    "city" : "Stepanakert",
+    "lat" : "39°49'N",
+    "lon" : "46°45'E"
+  }, {
+    "city" : "Stirling",
+    "lat" : "56°09'N",
+    "lon" : "3°56'W"
+  }, {
+    "city" : "Stjørdal",
+    "lat" : "63°29'N",
+    "lon" : "11°10'E"
+  }, {
+    "city" : "Stockholm",
+    "lat" : "59°20'N",
+    "lon" : "18°04'E"
+  }, {
+    "city" : "Strasbourg",
+    "lat" : "48°35'N",
+    "lon" : "7°45'E"
+  }, {
+    "city" : "Stuttgart",
+    "lat" : "48°47'N",
+    "lon" : "9°11'E"
+  }, {
+    "city" : "Sucre",
+    "lat" : "19°03'S",
+    "lon" : "65°15'W"
+  }, {
+    "city" : "Sudbury",
+    "lat" : "46°29'N",
+    "lon" : "81°01'W"
+  }, {
+    "city" : "Suez",
+    "lat" : "29°58'N",
+    "lon" : "32°33'E"
+  }, {
+    "city" : "Sukhumi",
+    "lat" : "43°00'N",
+    "lon" : "41°01'E"
+  }, {
+    "city" : "Sunderland",
+    "lat" : "54°54'N",
+    "lon" : "1°23'W"
+  }, {
+    "city" : "Sundsvall",
+    "lat" : "62°24'N",
+    "lon" : "17°19'E"
+  }, {
+    "city" : "Surabaya",
+    "lat" : "7°16'S",
+    "lon" : "112°45'E"
+  }, {
+    "city" : "Surat",
+    "lat" : "21°10'N",
+    "lon" : "72°50'E"
+  }, {
+    "city" : "Surat Thani",
+    "lat" : "9°08'N",
+    "lon" : "99°20'E"
+  }, {
+    "city" : "Suva",
+    "lat" : "18°08'S",
+    "lon" : "178°27'E"
+  }, {
+    "city" : "Swansea",
+    "lat" : "51°37'N",
+    "lon" : "3°57'W"
+  }, {
+    "city" : "Sydney",
+    "lat" : "33°52'S",
+    "lon" : "151°13'E"
+  }, {
+    "city" : "São José do Rio Preto",
+    "lat" : "20°48'S",
+    "lon" : "49°23'W"
+  }, {
+    "city" : "São José dos Campos",
+    "lat" : "23°11'S",
+    "lon" : "45°53'W"
+  }, {
+    "city" : "São Luís",
+    "lat" : "2°32'S",
+    "lon" : "44°18'W"
+  }, {
+    "city" : "São Paulo",
+    "lat" : "23°33'S",
+    "lon" : "46°38'W"
+  }, {
+    "city" : "São Tomé",
+    "lat" : "0°20'N",
+    "lon" : "6°41'E"
+  }, {
+    "city" : "Tabriz",
+    "lat" : "38°04'N",
+    "lon" : "46°18'E"
+  }, {
+    "city" : "Tagbilaran",
+    "lat" : "9°39'N",
+    "lon" : "123°51'E"
+  }, {
+    "city" : "Taichung",
+    "lat" : "24°09'N",
+    "lon" : "120°40'E"
+  }, {
+    "city" : "Tainan",
+    "lat" : "22°59'N",
+    "lon" : "120°11'E"
+  }, {
+    "city" : "Taipei",
+    "lat" : "25°02'N",
+    "lon" : "121°38'E"
+  }, {
+    "city" : "Taiyuan",
+    "lat" : "37°52'N",
+    "lon" : "112°34'E"
+  }, {
+    "city" : "Takamatsu",
+    "lat" : "34°21'N",
+    "lon" : "134°03'E"
+  }, {
+    "city" : "Tallinn",
+    "lat" : "59°26'N",
+    "lon" : "24°45'E"
+  }, {
+    "city" : "Tamale",
+    "lat" : "9°24'N",
+    "lon" : "0°51'W"
+  }, {
+    "city" : "Tampa",
+    "lat" : "27°57'N",
+    "lon" : "82°28'W"
+  }, {
+    "city" : "Tampere",
+    "lat" : "61°30'N",
+    "lon" : "23°46'E"
+  }, {
+    "city" : "Tampico",
+    "lat" : "22°15'N",
+    "lon" : "97°52'W"
+  }, {
+    "city" : "Tangier",
+    "lat" : "35°46'N",
+    "lon" : "5°48'W"
+  }, {
+    "city" : "Tapachula",
+    "lat" : "14°54'N",
+    "lon" : "92°16'W"
+  }, {
+    "city" : "Tartu",
+    "lat" : "58°23'N",
+    "lon" : "26°43'E"
+  }, {
+    "city" : "Tashkent",
+    "lat" : "41°16'N",
+    "lon" : "69°13'E"
+  }, {
+    "city" : "Tbilisi",
+    "lat" : "41°43'N",
+    "lon" : "44°47'E"
+  }, {
+    "city" : "Tegucigalpa",
+    "lat" : "14°06'N",
+    "lon" : "87°13'W"
+  }, {
+    "city" : "Tehran",
+    "lat" : "35°42'N",
+    "lon" : "51°25'E"
+  }, {
+    "city" : "Tel Aviv",
+    "lat" : "32°04'N",
+    "lon" : "34°47'E"
+  }, {
+    "city" : "Temuco",
+    "lat" : "38°45'S",
+    "lon" : "72°40'W"
+  }, {
+    "city" : "Teresina",
+    "lat" : "5°06'S",
+    "lon" : "42°48'W"
+  }, {
+    "city" : "Tezpur",
+    "lat" : "26°38'N",
+    "lon" : "92°48'E"
+  }, {
+    "city" : "The Hague",
+    "lat" : "52°05'N",
+    "lon" : "4°19'E"
+  }, {
+    "city" : "The Valley",
+    "lat" : "18°13'N",
+    "lon" : "63°03'W"
+  }, {
+    "city" : "Thessaloniki",
+    "lat" : "40°39'N",
+    "lon" : "22°54'E"
+  }, {
+    "city" : "Thimphu",
+    "lat" : "27°28'N",
+    "lon" : "89°39'E"
+  }, {
+    "city" : "Thiès",
+    "lat" : "14°47'N",
+    "lon" : "16°55'W"
+  }, {
+    "city" : "Thunder Bay",
+    "lat" : "48°23'N",
+    "lon" : "89°15'W"
+  }, {
+    "city" : "Tianjin",
+    "lat" : "39°08'N",
+    "lon" : "117°11'E"
+  }, {
+    "city" : "Tiaret",
+    "lat" : "35°22'N",
+    "lon" : "1°19'E"
+  }, {
+    "city" : "Tijuana",
+    "lat" : "32°32'N",
+    "lon" : "117°02'W"
+  }, {
+    "city" : "Tiksi",
+    "lat" : "71°39'N",
+    "lon" : "128°52'E"
+  }, {
+    "city" : "Timbuktu",
+    "lat" : "16°47'N",
+    "lon" : "3°01'W"
+  }, {
+    "city" : "Tirana",
+    "lat" : "41°20'N",
+    "lon" : "19°49'E"
+  }, {
+    "city" : "Tiraspol",
+    "lat" : "46°51'N",
+    "lon" : "29°38'E"
+  }, {
+    "city" : "Tokushima",
+    "lat" : "34°04'N",
+    "lon" : "134°33'E"
+  }, {
+    "city" : "Tokyo",
+    "lat" : "35°41'N",
+    "lon" : "139°42'E"
+  }, {
+    "city" : "Tolyatti",
+    "lat" : "53°31'N",
+    "lon" : "49°25'E"
+  }, {
+    "city" : "Tornio",
+    "lat" : "65°51'N",
+    "lon" : "24°09'E"
+  }, {
+    "city" : "Toronto",
+    "lat" : "43°42'N",
+    "lon" : "79°24'W"
+  }, {
+    "city" : "Torreón",
+    "lat" : "25°32'N",
+    "lon" : "103°27'W"
+  }, {
+    "city" : "Tottori",
+    "lat" : "35°30'N",
+    "lon" : "134°14'E"
+  }, {
+    "city" : "Toulouse",
+    "lat" : "43°36'N",
+    "lon" : "1°27'E"
+  }, {
+    "city" : "Townsville",
+    "lat" : "19°15'S",
+    "lon" : "146°49'E"
+  }, {
+    "city" : "Toyama",
+    "lat" : "36°42'N",
+    "lon" : "137°13'E"
+  }, {
+    "city" : "Trabzon",
+    "lat" : "41°00'N",
+    "lon" : "39°44'E"
+  }, {
+    "city" : "Trapani",
+    "lat" : "38°01'N",
+    "lon" : "12°30'E"
+  }, {
+    "city" : "Trelew",
+    "lat" : "43°15'S",
+    "lon" : "65°18'W"
+  }, {
+    "city" : "Trenton",
+    "lat" : "40°13'N",
+    "lon" : "74°46'W"
+  }, {
+    "city" : "Tripoli",
+    "lat" : "32°54'N",
+    "lon" : "13°11'E"
+  }, {
+    "city" : "Trivandrum",
+    "lat" : "8°29'N",
+    "lon" : "76°57'E"
+  }, {
+    "city" : "Tromsø",
+    "lat" : "69°41'N",
+    "lon" : "18°57'E"
+  }, {
+    "city" : "Trondheim",
+    "lat" : "63°26'N",
+    "lon" : "10°24'E"
+  }, {
+    "city" : "Trujillo",
+    "lat" : "8°07'S",
+    "lon" : "79°02'W"
+  }, {
+    "city" : "Tskhinvali",
+    "lat" : "42°14'N",
+    "lon" : "43°58'E"
+  }, {
+    "city" : "Tsu",
+    "lat" : "34°43'N",
+    "lon" : "136°30'E"
+  }, {
+    "city" : "Tucson",
+    "lat" : "32°13'N",
+    "lon" : "110°56'W"
+  }, {
+    "city" : "Tuktoyaktuk",
+    "lat" : "69°27'N",
+    "lon" : "133°02'W"
+  }, {
+    "city" : "Tulsa",
+    "lat" : "36°08'N",
+    "lon" : "95°56'W"
+  }, {
+    "city" : "Tunis",
+    "lat" : "36°48'N",
+    "lon" : "10°11'E"
+  }, {
+    "city" : "Turin",
+    "lat" : "45°04'N",
+    "lon" : "7°42'E"
+  }, {
+    "city" : "Turku",
+    "lat" : "60°27'N",
+    "lon" : "22°16'E"
+  }, {
+    "city" : "Tórshavn",
+    "lat" : "62°01'N",
+    "lon" : "6°46'W"
+  }, {
+    "city" : "Uberlândia",
+    "lat" : "18°55'S",
+    "lon" : "48°17'W"
+  }, {
+    "city" : "Udon Thani",
+    "lat" : "17°25'N",
+    "lon" : "102°45'E"
+  }, {
+    "city" : "Ufa",
+    "lat" : "54°45'N",
+    "lon" : "55°58'E"
+  }, {
+    "city" : "Ulaanbaatar",
+    "lat" : "47°55'N",
+    "lon" : "106°55'E"
+  }, {
+    "city" : "Umeå",
+    "lat" : "63°50'N",
+    "lon" : "20°16'E"
+  }, {
+    "city" : "Upernavik",
+    "lat" : "72°47'N",
+    "lon" : "56°09'W"
+  }, {
+    "city" : "Uppsala",
+    "lat" : "59°51'N",
+    "lon" : "17°39'E"
+  }, {
+    "city" : "Ushuaia",
+    "lat" : "54°48'S",
+    "lon" : "68°18'W"
+  }, {
+    "city" : "Utrecht",
+    "lat" : "52°06'N",
+    "lon" : "5°07'E"
+  }, {
+    "city" : "Utsjoki",
+    "lat" : "69°54'N",
+    "lon" : "27°01'E"
+  }, {
+    "city" : "Utsunomiya",
+    "lat" : "36°33'N",
+    "lon" : "139°53'E"
+  }, {
+    "city" : "Vaasa",
+    "lat" : "63°06'N",
+    "lon" : "21°37'E"
+  }, {
+    "city" : "Vadsø",
+    "lat" : "70°05'N",
+    "lon" : "29°44'E"
+  }, {
+    "city" : "Vaduz",
+    "lat" : "47°08'N",
+    "lon" : "9°31'E"
+  }, {
+    "city" : "Valdivia",
+    "lat" : "39°49'S",
+    "lon" : "73°15'W"
+  }, {
+    "city" : "Valencia",
+    "lat" : "10°11'N",
+    "lon" : "68°00'W"
+  }, {
+    "city" : "Valencia",
+    "lat" : "39°28'N",
+    "lon" : "0°23'W"
+  }, {
+    "city" : "Valga",
+    "lat" : "57°46'N",
+    "lon" : "26°02'E"
+  }, {
+    "city" : "Valladolid",
+    "lat" : "41°40'N",
+    "lon" : "4°43'W"
+  }, {
+    "city" : "Valletta",
+    "lat" : "35°54'N",
+    "lon" : "14°31'E"
+  }, {
+    "city" : "Valparaíso",
+    "lat" : "33°03'S",
+    "lon" : "71°37'W"
+  }, {
+    "city" : "Vancouver",
+    "lat" : "49°15'N",
+    "lon" : "123°06'W"
+  }, {
+    "city" : "Vantaa",
+    "lat" : "60°18'N",
+    "lon" : "25°02'E"
+  }, {
+    "city" : "Vatican City",
+    "lat" : "41°54'N",
+    "lon" : "12°27'E"
+  }, {
+    "city" : "Venice",
+    "lat" : "45°26'N",
+    "lon" : "12°20'E"
+  }, {
+    "city" : "Veracruz",
+    "lat" : "19°11'N",
+    "lon" : "96°09'W"
+  }, {
+    "city" : "Verkhoyansk",
+    "lat" : "67°33'N",
+    "lon" : "133°23'E"
+  }, {
+    "city" : "Victoria",
+    "lat" : "4°37'S",
+    "lon" : "55°27'E"
+  }, {
+    "city" : "Victoria",
+    "lat" : "48°26'N",
+    "lon" : "123°22'W"
+  }, {
+    "city" : "Vienna",
+    "lat" : "48°13'N",
+    "lon" : "16°22'E"
+  }, {
+    "city" : "Vientiane",
+    "lat" : "17°58'N",
+    "lon" : "102°36'E"
+  }, {
+    "city" : "Vigo",
+    "lat" : "42°14'N",
+    "lon" : "8°43'W"
+  }, {
+    "city" : "Villa Las Estrellas",
+    "lat" : "62°12'S",
+    "lon" : "58°58'W"
+  }, {
+    "city" : "Vilnius",
+    "lat" : "54°41'N",
+    "lon" : "25°17'E"
+  }, {
+    "city" : "Virginia Beach",
+    "lat" : "36°51'N",
+    "lon" : "75°59'W"
+  }, {
+    "city" : "Visakhapatnam",
+    "lat" : "17°41'N",
+    "lon" : "83°13'E"
+  }, {
+    "city" : "Visby",
+    "lat" : "57°38'N",
+    "lon" : "18°17'E"
+  }, {
+    "city" : "Vitoria-Gasteiz",
+    "lat" : "42°51'N",
+    "lon" : "2°41'W"
+  }, {
+    "city" : "Vitória",
+    "lat" : "20°19'S",
+    "lon" : "40°20'W"
+  }, {
+    "city" : "Viña del Mar",
+    "lat" : "33°00'S",
+    "lon" : "71°31'W"
+  }, {
+    "city" : "Vladivostok",
+    "lat" : "43°08'N",
+    "lon" : "131°54'E"
+  }, {
+    "city" : "Volgograd",
+    "lat" : "48°42'N",
+    "lon" : "44°31'E"
+  }, {
+    "city" : "Vologda",
+    "lat" : "59°13'N",
+    "lon" : "39°54'E"
+  }, {
+    "city" : "Voronezh",
+    "lat" : "51°40'N",
+    "lon" : "39°13'E"
+  }, {
+    "city" : "Waitangi",
+    "lat" : "43°57'S",
+    "lon" : "176°33'E"
+  }, {
+    "city" : "Wakayama",
+    "lat" : "34°14'N",
+    "lon" : "135°10'E"
+  }, {
+    "city" : "Wakkanai",
+    "lat" : "45°25'N",
+    "lon" : "141°40'E"
+  }, {
+    "city" : "Warsaw",
+    "lat" : "52°14'N",
+    "lon" : "21°01'E"
+  }, {
+    "city" : "Washington",
+    "lat" : "38°54'N",
+    "lon" : "77°02'W"
+  }, {
+    "city" : "Wellington",
+    "lat" : "41°17'S",
+    "lon" : "174°47'E"
+  }, {
+    "city" : "Weno",
+    "lat" : "7°27'N",
+    "lon" : "151°51'E"
+  }, {
+    "city" : "Whitehorse",
+    "lat" : "60°43'N",
+    "lon" : "135°03'W"
+  }, {
+    "city" : "Wichita",
+    "lat" : "37°41'N",
+    "lon" : "97°20'W"
+  }, {
+    "city" : "Willemstad",
+    "lat" : "12°07'N",
+    "lon" : "68°56'W"
+  }, {
+    "city" : "Wilmington",
+    "lat" : "34°13'N",
+    "lon" : "77°55'W"
+  }, {
+    "city" : "Winchester",
+    "lat" : "51°06'N",
+    "lon" : "1°30'E"
+  }, {
+    "city" : "Windhoek",
+    "lat" : "22°34'S",
+    "lon" : "17°05'E"
+  }, {
+    "city" : "Windsor",
+    "lat" : "42°17'N",
+    "lon" : "83°00'W"
+  }, {
+    "city" : "Winnipeg",
+    "lat" : "49°54'N",
+    "lon" : "97°08'W"
+  }, {
+    "city" : "Wollongong",
+    "lat" : "34°26'S",
+    "lon" : "150°53'E"
+  }, {
+    "city" : "Wonsan",
+    "lat" : "39°09'N",
+    "lon" : "127°27'E"
+  }, {
+    "city" : "Wuhan",
+    "lat" : "30°35'N",
+    "lon" : "114°17'E"
+  }, {
+    "city" : "Xi'an",
+    "lat" : "34°16'N",
+    "lon" : "108°54'E"
+  }, {
+    "city" : "Xining",
+    "lat" : "36°38'N",
+    "lon" : "101°46'E"
+  }, {
+    "city" : "Yakutsk",
+    "lat" : "62°02'N",
+    "lon" : "129°44'E"
+  }, {
+    "city" : "Yamagata",
+    "lat" : "38°15'N",
+    "lon" : "140°20'E"
+  }, {
+    "city" : "Yamaguchi",
+    "lat" : "34°11'N",
+    "lon" : "131°28'E"
+  }, {
+    "city" : "Yamoussoukro",
+    "lat" : "6°49'N",
+    "lon" : "5°17'W"
+  }, {
+    "city" : "Yangon",
+    "lat" : "16°48'N",
+    "lon" : "96°09'E"
+  }, {
+    "city" : "Yaoundé",
+    "lat" : "3°52'N",
+    "lon" : "11°31'E"
+  }, {
+    "city" : "Yaren District",
+    "lat" : "0°33'S",
+    "lon" : "166°55'E"
+  }, {
+    "city" : "Yarmouth",
+    "lat" : "43°50'N",
+    "lon" : "66°07'W"
+  }, {
+    "city" : "Yaroslavl",
+    "lat" : "57°37'N",
+    "lon" : "39°51'E"
+  }, {
+    "city" : "Yekaterinburg",
+    "lat" : "56°50'N",
+    "lon" : "60°35'E"
+  }, {
+    "city" : "Yellowknife",
+    "lat" : "62°27'N",
+    "lon" : "114°24'W"
+  }, {
+    "city" : "Yerevan",
+    "lat" : "40°11'N",
+    "lon" : "44°31'E"
+  }, {
+    "city" : "Yogyakarta",
+    "lat" : "7°48'S",
+    "lon" : "110°22'E"
+  }, {
+    "city" : "Yokohama",
+    "lat" : "35°27'N",
+    "lon" : "139°38'E"
+  }, {
+    "city" : "York",
+    "lat" : "53°58'N",
+    "lon" : "1°05'W"
+  }, {
+    "city" : "Zagreb",
+    "lat" : "45°49'N",
+    "lon" : "15°59'E"
+  }, {
+    "city" : "Zamboanga City",
+    "lat" : "6°54'N",
+    "lon" : "122°04'E"
+  }, {
+    "city" : "Zanzibar City",
+    "lat" : "6°10'S",
+    "lon" : "39°12'E"
+  }, {
+    "city" : "Zapopan",
+    "lat" : "20°43'N",
+    "lon" : "103°24'W"
+  }, {
+    "city" : "Zaragoza",
+    "lat" : "41°39'N",
+    "lon" : "0°53'W"
+  }, {
+    "city" : "Zhengzhou",
+    "lat" : "34°46'N",
+    "lon" : "113°39'E"
+  }, {
+    "city" : "Zürich",
+    "lat" : "47°22'N",
+    "lon" : "8°33'E"
+  }, {
+    "city" : "Ålesund",
+    "lat" : "62°28'20″N",
+    "lon" : "6°09'17″E"
+  }, {
+    "city" : "Ísafjörður",
+    "lat" : "66°05'N",
+    "lon" : "23°08'W"
+  }, {
+    "city" : "Örebro",
+    "lat" : "59°16'N",
+    "lon" : "15°12'E"
+  }, {
+    "city" : "Örnsköldsvik",
+    "lat" : "63°17'N",
+    "lon" : "18°44'E"
+  }, {
+    "city" : "Östersund",
+    "lat" : "63°11'N",
+    "lon" : "14°40'E"
+  }, {
+    "city" : "Ürümqi",
+    "lat" : "43°50'N",
+    "lon" : "87°36'E"
+  }, {
+    "city" : "Ōita",
+    "lat" : "33°14'N",
+    "lon" : "131°36'E"
+  }, {
+    "city" : "Ōtsu",
+    "lat" : "35°01'N",
+    "lon" : "135°51'E"
+  }, {
+    "city" : "Šabac",
+    "lat" : "44°45'N",
+    "lon" : "19°42'E"
+  } ],
+  "single_choice_attributes" : {
+    "ethnicity" : [ {
+      "id" : "5b3d1252-860f-459b-ab90-7a2914360dbf",
+      "name" : "White"
+    }, {
+      "id" : "1b2f380e-5d70-4ada-9ad3-c6d733a1aaa4",
+      "name" : "South Asian"
+    }, {
+      "id" : "a55f5912-8a13-4c0e-bf11-d333f93a08e0",
+      "name" : "South East Asian"
+    }, {
+      "id" : "44d17f32-f0c9-4bd0-801e-fd9b63d54342",
+      "name" : "Mixed"
+    }, {
+      "id" : "21c455ec-976f-4415-b430-8b87472cf76a",
+      "name" : "Black"
+    }, {
+      "id" : "c7fdedc4-da77-4e68-8342-3152719a577e",
+      "name" : "Arabic"
+    }, {
+      "id" : "083c230f-05eb-4ea7-869e-6de1783815f7",
+      "name" : "Hispanic"
+    }, {
+      "id" : "b26ce72d-99c5-4be9-8415-3155f43ec938",
+      "name" : "Latino"
+    }, {
+      "id" : "73b90c23-1d74-494b-8d9a-246efa81a0dc",
+      "name" : "Native American"
+    }, {
+      "id" : "37ffade8-3365-4d2f-aa5c-7f2b3f6dbf7e",
+      "name" : "Pacific Islander"
+    }, {
+      "id" : "b971fc52-c4e0-4d27-bf72-76352d2e3300",
+      "name" : "Other"
+    } ],
+    "figure" : [ {
+      "id" : "9c6ddf44-01ae-4fdb-acc9-b97f2882e4ef",
+      "name" : "Slim"
+    }, {
+      "id" : "b5e4720e-bc9a-4e56-a301-31a6f667adc2",
+      "name" : "Normal"
+    }, {
+      "id" : "ae32676c-4275-4536-a6e0-188100b97148",
+      "name" : "Athletic"
+    }, {
+      "id" : "16fbde03-13e5-4a8b-a24f-153b4388002f",
+      "name" : "A few extra kilos"
+    }, {
+      "id" : "e9feac11-3861-4bf4-bbde-0db67a60544d",
+      "name" : "More to love"
+    } ],
+    "gender" : [ {
+      "id" : "8f9d76ad-2c6b-4a98-8496-6165a2770a5e",
+      "name" : "Male"
+    }, {
+      "id" : "1969cf48-7ae7-4073-abb3-d09ba6a19946",
+      "name" : "Female"
+    }, {
+      "id" : "43a01b78-5425-4cba-821a-1459dd5a2784",
+      "name" : "Other"
+    } ],
+    "marital_status" : [ {
+      "id" : "5a837767-7a11-487c-a243-7451c7b14c03",
+      "name" : "Never Married"
+    }, {
+      "id" : "1a02c6a4-d7b1-470c-839d-8c3a099a9665",
+      "name" : "Divorced"
+    }, {
+      "id" : "307614c9-7813-44f9-9b30-fd8545fd2635",
+      "name" : "Widower"
+    }, {
+      "id" : "3cd548f0-3471-44b8-b2ed-bf6c83790a7a",
+      "name" : "Separated"
+    } ],
+    "religion" : [ {
+      "id" : "a2bc1142-9b6a-41f3-a620-a39afb1304ab",
+      "name" : "Agnostic"
+    }, {
+      "id" : "2601e45e-b70f-43e3-8364-205794b439e6",
+      "name" : "Atheist"
+    }, {
+      "id" : "aec22ee3-fd02-4570-89bd-16310c43dc31",
+      "name" : "Buddhist"
+    }, {
+      "id" : "8af4bd2a-44d5-44a4-8424-ce1c2ab29d2b",
+      "name" : "Christian"
+    }, {
+      "id" : "9bf8e0ef-11ea-4fe3-bdd4-e6d29fe406cb",
+      "name" : "Hindu"
+    }, {
+      "id" : "381c5099-c3cd-4cf9-9560-b0b2719f4870",
+      "name" : "Islam"
+    }, {
+      "id" : "ee590f83-6c98-4e60-a401-7b7af73509a5",
+      "name" : "Jewish"
+    }, {
+      "id" : "f9f95de1-2699-485e-b5e6-0e1ed821c1ae",
+      "name" : "Shinto"
+    }, {
+      "id" : "0253d494-4b20-4cdb-b855-a2643f1d1549",
+      "name" : "Sikh"
+    }, {
+      "id" : "5fc4c39c-f42d-4644-b316-a06ff96ef462",
+      "name" : "Other"
+    } ]
+  },
+  "users" : [ {
+    "about_me" : "about_me",
+    "birthday" : "01.01.2019",
+    "display_name" : "Zero Cool",
+    "ethnicity" : {
+      "id" : "5b3d1252-860f-459b-ab90-7a2914360dbf",
+      "name" : "White"
+    },
+    "figure" : {
+      "id" : "16fbde03-13e5-4a8b-a24f-153b4388002f",
+      "name" : "A few extra kilos"
+    },
+    "gender" : {
+      "id" : "8f9d76ad-2c6b-4a98-8496-6165a2770a5e",
+      "name" : "Male"
+    },
+    "height" : "175",
+    "location" : {
+    "city" : "Berlin",
+    "lat" : "52°31'N",
+    "lon" : "13°23'E"
+  },
+    "marital_status" : {
+      "id" : "5a837767-7a11-487c-a243-7451c7b14c03",
+      "name" : "Never Married"
+    },
+    "occupation" : "cosmonaut",
+    "profile_picture" : {"url":"https://firebasestorage.googleapis.com/v0/b/testapp-c40e0.appspot.com/o/zero.jpg?alt=media&token=756a9709-b2ad-497e-bb8d-fba7e928a6b2"},
+    "real_name" : "John doe",
+    "religion" : {
+      "id" : "8af4bd2a-44d5-44a4-8424-ce1c2ab29d2b",
+      "name" : "Christian"
+    }
+  } ]
+}

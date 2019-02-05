@@ -1,5 +1,7 @@
 package com.example.userprofile.data.net;
 
+import com.example.userprofile.BuildConfig;
+
 import java.util.concurrent.TimeUnit;
 
 import dagger.Module;
@@ -12,7 +14,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 @Module
 public class ApiServiceModul {
 
-    public final String BASE_URL = "https://us-central1-testapp-c40e0.cloudfunctions.net/";
+    public final String BASE_URL = BuildConfig.HOST;
 
     @Provides
     public OkHttpClient provideClient() {
