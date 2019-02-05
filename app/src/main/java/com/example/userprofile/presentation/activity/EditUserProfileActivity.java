@@ -4,6 +4,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.test.espresso.IdlingResource;
+import android.support.test.espresso.idling.CountingIdlingResource;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
@@ -71,6 +73,10 @@ public class EditUserProfileActivity extends AppCompatActivity implements UserPr
 
     private Picture profilePicture;
 
+    private CountingIdlingResource countingIdlingResource;
+    public IdlingResource getIdlingResource() {
+        return countingIdlingResource;
+    }
     public static Intent getIntent(Context context, int userId) {
         Intent intent = new Intent(context, EditUserProfileActivity.class);
         //intent.putExtra(USER_ID, userId);
@@ -84,12 +90,15 @@ public class EditUserProfileActivity extends AppCompatActivity implements UserPr
 
         ButterKnife.bind(this);
         ((Application)getApplication()).getComponent().inject(this);
+        presenter.setIdlingResource(countingIdlingResource);
     }
 
     @Override public void onResume() {
         super.onResume();
-        if(this.presenter!=null)
-            this.presenter.attachView(this);
+        if(this.presenter==null)return;
+
+        this.presenter.attachView(this);
+        this.presenter.start();
     }
 
     @Override public void onPause() {
@@ -174,9 +183,15 @@ public class EditUserProfileActivity extends AppCompatActivity implements UserPr
     }
 
     @Override
-    public void goBack() {
-
+    public void updateReady() {
+        Toast.makeText(this, getResources().getText(R.string.update_ok), Toast.LENGTH_LONG).show();
     }
+    @Override
+    public void updateError() {
+        Toast.makeText(this, getResources().getText(R.string.update_error), Toast.LENGTH_LONG).show();
+    }
+
+
 
     @OnClick(R.id.btnSave)
     void pressedSave()

@@ -42,20 +42,4 @@ public class UserProfilePresenterTest {
         verify(mockView).set(any(User.class));
         verify(mockView,never()).showRetry();
     }
-
-    @Test
-    public void startFail() {
-        when(mockGetUser.user()).thenReturn(Observable.error(UnknownError::new));
-        presenter.start();
-        verify(mockView).hideRetry();
-        verify(mockView).showLoading();
-        verify(mockView).hideLoading();
-        verify(mockView,never()).set(any(User.class));
-        verify(mockView).showRetry();
-    }
-
-    @Test
-    public void detachView() {
-        presenter.detachView();
-    }
 }

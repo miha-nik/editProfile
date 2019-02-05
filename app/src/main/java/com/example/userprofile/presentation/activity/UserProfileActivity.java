@@ -2,6 +2,8 @@ package com.example.userprofile.presentation.activity;
 
 import android.content.Intent;
 import android.net.Uri;
+import android.support.test.espresso.IdlingResource;
+import android.support.test.espresso.idling.CountingIdlingResource;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -61,16 +63,26 @@ public class UserProfileActivity extends AppCompatActivity implements UserPresen
     @BindView(R.id.btnRetry)
     Button btnRetry;
 
+    private CountingIdlingResource countingIdlingResource;
+    public IdlingResource getIdlingResource() {
+        return countingIdlingResource;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         ((Application)getApplication()).getComponent().inject(this);
+
+        countingIdlingResource = new CountingIdlingResource("Data loading");
+        presenter.setIdlingResource(countingIdlingResource);
     }
 
     @Override public void onResume() {
         super.onResume();
+        if(this.presenter==null)return;
+
         this.presenter.attachView(this);
         this.presenter.start();
     }

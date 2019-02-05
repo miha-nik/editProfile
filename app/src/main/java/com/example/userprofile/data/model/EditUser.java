@@ -7,12 +7,13 @@ public class EditUser {
     private SingleChoiceAttributes singleChoiceAttributes;
     private List<City> cities = null;
 
+    public EditUser() {
+    }
     public EditUser(User user, SingleChoiceAttributes singleChoiceAttributes, List<City> cities) {
         this.user = user;
         this.singleChoiceAttributes = singleChoiceAttributes;
         this.cities = cities;
     }
-
     public User getUser() {
         return user;
     }

@@ -24,7 +24,8 @@ public interface UserPresenter {
         public void setAttr(User user, SingleChoiceAttributes atrr, List<City> cities);
         public User getUserOnValidation();
         public void error();
-        public void goBack();
+        public void updateReady();
+        public void updateError();
     }
     interface Presenter{
         public void attachView(UserPresenter.View view);

@@ -1,5 +1,6 @@
 package com.example.userprofile.presentation.presenter;
 
+import android.support.test.espresso.idling.CountingIdlingResource;
 import android.util.Log;
 
 import com.example.userprofile.data.model.User;
@@ -21,6 +22,7 @@ public class UserProfilePresenter implements UserPresenter.Presenter {
     private CompositeDisposable disposable;
 
     private Scheduler observerThread;
+    private CountingIdlingResource countingIdlingResource;
 
     @Inject
     UserProfilePresenter(GetUser getUser){
@@ -33,6 +35,10 @@ public class UserProfilePresenter implements UserPresenter.Presenter {
         this.getUser = getUser;
         this.disposable = new CompositeDisposable();
         this.observerThread = observerThread;
+    }
+
+    public void setIdlingResource(CountingIdlingResource countingIdlingResource) {
+        this.countingIdlingResource = countingIdlingResource;
     }
 
     @Override
@@ -60,6 +66,7 @@ public class UserProfilePresenter implements UserPresenter.Presenter {
     }
 
     private void getUser(){
+        if(countingIdlingResource!=null)countingIdlingResource.increment();
         disposable.add(this.getUser.user()
                 .subscribeOn(Schedulers.io())
                 .observeOn(observerThread)
@@ -72,11 +79,13 @@ public class UserProfilePresenter implements UserPresenter.Presenter {
                             if(UserProfilePresenter.this.view!=null){
                                 UserProfilePresenter.this.view.set(user);
                             }
+                            if(countingIdlingResource!=null)countingIdlingResource.decrement();
                         },
                         error ->{
                             if(UserProfilePresenter.this.view!=null){
                                 UserProfilePresenter.this.view.showRetry();
                             }
+                            if(countingIdlingResource!=null)countingIdlingResource.decrement();
                             }
                 ));
     }

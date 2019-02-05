@@ -18,5 +18,8 @@
 
 
     <string name="error_edit_profile">All fields must be filled</string>
+    <string name="update_ok">User profile updated</string>
+    <string name="update_error">Error update user profile</string>
+
 
 </resources>

@@ -1,5 +1,6 @@
 package com.example.userprofile.presentation.presenter;
 
+import android.support.test.espresso.idling.CountingIdlingResource;
 import android.util.Log;
 
 import com.example.userprofile.data.model.EditUser;
@@ -9,6 +10,7 @@ import com.example.userprofile.domain.interactor.GetEditableUser;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
+import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
@@ -22,12 +24,24 @@ public class EditUserProfilePresenter implements UserPresenter.Presenter {
     private CompositeDisposable disposable;
     private EditUser user;
 
+    private Scheduler observerThread;
+
+    private CountingIdlingResource countingIdlingResource;
     @Inject
     EditUserProfilePresenter(GetEditableUser editableUser){
         this.editableUser = editableUser;
         disposable = new CompositeDisposable();
+        this.observerThread = AndroidSchedulers.mainThread();
+    }
+    EditUserProfilePresenter(GetEditableUser editableUser, Scheduler observerThread){
+        this.editableUser = editableUser;
+        disposable = new CompositeDisposable();
+        this.observerThread = observerThread;
     }
 
+    public void setIdlingResource(CountingIdlingResource countingIdlingResource) {
+        this.countingIdlingResource = countingIdlingResource;
+    }
     @Override
     public void attachView(UserPresenter.View view) {
         this.view = (UserPresenter.EditView)view;
@@ -47,9 +61,10 @@ public class EditUserProfilePresenter implements UserPresenter.Presenter {
 
     private void getUser(){
         if(view!=null)view.showLoading();
+        if(countingIdlingResource!=null)countingIdlingResource.increment();
         disposable.add(this.editableUser.userWithAttributes()
                 .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+                .observeOn(observerThread)
                 .doOnTerminate(()->{
                     if(view!=null)view.hideLoading();
                 })
@@ -59,9 +74,13 @@ public class EditUserProfilePresenter implements UserPresenter.Presenter {
                                 view.setUser(user.getUser());
                                 view.setAttr(user.getUser(), user.getSingleChoiceAttributes(), user.getCities());
                             }
+                            if(countingIdlingResource!=null)
+                                countingIdlingResource.decrement();
                         },
                         error ->{
                             Log.d("getUser",error.getLocalizedMessage());
+                            if(countingIdlingResource!=null)
+                                countingIdlingResource.decrement();
                         }
                 ));
     }
@@ -79,16 +98,18 @@ public class EditUserProfilePresenter implements UserPresenter.Presenter {
 
         disposable.add(this.editableUser.updateUser(updateUser)
                 .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+                .observeOn(observerThread)
                 .doOnTerminate(()->{
                     if(view!=null)view.hideLoading();
                 })
                 .subscribe(
                         user -> {
-                            Log.d("updateUser",user.toString());
+                            if(view!=null)
+                                view.updateReady();
                         },
                         error ->{
-                            Log.d("updateUser",error.getLocalizedMessage());
+                            if(view!=null)
+                                view.updateError();
                         }
                 ));
 
